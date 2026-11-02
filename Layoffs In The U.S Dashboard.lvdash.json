@@ -1,0 +1,607 @@
+{
+  "datasets": [
+    {
+      "name": "511b0905",
+      "displayName": "Top Industries Ranked by Average Funding Raised",
+      "queryLines": [
+        "select industry, avg(funds_raised_millions) as avg_funds_raised, year(`date`), country\n",
+        "from layoffs_staging4\n",
+        "group by industry, year(`date`), country\n",
+        "having industry is not null\n",
+        "and country = 'United States'\n",
+        ";"
+      ],
+      "catalog": "world_layoffs",
+      "schema": "layoffs"
+    },
+    {
+      "name": "703077ac",
+      "displayName": "layoffs_staging4",
+      "config": {
+        "version": "1.1",
+        "source": "world_layoffs.layoffs.layoffs_staging4",
+        "dimensions": [
+          {
+            "expr": "source.*"
+          }
+        ],
+        "measures": [
+          {
+            "name": "count",
+            "expr": "COUNT(*)",
+            "comment": "Represents the total number of rows in the dataset. Use this measure to count all",
+            "displayName": "Count"
+          }
+        ]
+      }
+    },
+    {
+      "name": "266c903a",
+      "displayName": "Distinct Layoff Years Extracted from Data",
+      "queryLines": [
+        "select distinct year(`date`)\n",
+        "from layoffs_staging4\n",
+        "where `date` is not null\n",
+        ";"
+      ],
+      "catalog": "world_layoffs",
+      "schema": "layoffs"
+    },
+    {
+      "name": "c6c14d5d",
+      "displayName": "Unique Layoff Locations Overview",
+      "queryLines": [
+        "select distinct location, country\r\n",
+        "from layoffs_staging4\r\n",
+        "group by country, location\r\n",
+        "having country = 'United States'\r\n",
+        ";"
+      ],
+      "catalog": "world_layoffs",
+      "schema": "layoffs"
+    },
+    {
+      "name": "1d096fff",
+      "displayName": "Monthly Layoff Totals Grouped by Year and Month",
+      "queryLines": [
+        "select sum(total_laid_off), month(`date`), year(`date`)\r\n",
+        "from layoffs_staging4\r\n",
+        "group by month(`date`), year(`date`)\r\n",
+        "having sum(total_laid_off) is not null\r\n",
+        "and month(`date`) is not null\r\n",
+        "and year(`date`) is not null\r\n",
+        ";"
+      ],
+      "catalog": "world_layoffs",
+      "schema": "layoffs"
+    },
+    {
+      "name": "3a76b96d",
+      "displayName": "United States Industry Layoffs Summary by Year",
+      "queryLines": [
+        "select industry, sum(total_laid_off) as total_laid_off, year(`date`), country\n",
+        "from layoffs_staging4\n",
+        "group by industry, year(`date`), country\n",
+        "having industry is not null\n",
+        "and total_laid_off is not null\n",
+        "and year(`date`) is not null\n",
+        "and country = 'United States'\n",
+        ";"
+      ],
+      "catalog": "world_layoffs",
+      "schema": "layoffs"
+    },
+    {
+      "name": "3f99c2b8",
+      "displayName": "United States Industry Layoff Rates by Year",
+      "queryLines": [
+        "select industry, avg(percentage_laid_off) as avg_percentage_laid_off, country, year(`date`)\n",
+        "from layoffs_staging4\n",
+        "group by industry, country, year(`date`)\n",
+        "having industry is not null\n",
+        "and avg_percentage_laid_off is not null\n",
+        "and country = 'United States'\n",
+        "and industry != 'Other'\n",
+        "and year(`date`) is not null\n",
+        ";"
+      ],
+      "catalog": "world_layoffs",
+      "schema": "layoffs"
+    }
+  ],
+  "relationshipGraphs": [
+    {
+      "sources": [
+        {
+          "name": "Top_Industries_Ranked_by_Average_Funding_Raised",
+          "datasetName": "511b0905"
+        },
+        {
+          "name": "layoffs_staging4",
+          "datasetName": "703077ac"
+        },
+        {
+          "name": "Distinct_Layoff_Years_Extracted_from_Data",
+          "datasetName": "266c903a"
+        },
+        {
+          "name": "Untitled_dataset",
+          "datasetName": "c6c14d5d"
+        },
+        {
+          "name": "Untitled_dataset_1",
+          "datasetName": "1d096fff"
+        },
+        {
+          "name": "Untitled_dataset_2",
+          "datasetName": "3a76b96d"
+        },
+        {
+          "name": "Untitled_dataset_3",
+          "datasetName": "3f99c2b8"
+        }
+      ],
+      "relationships": [
+        {
+          "name": "Distinct_Layoff_Years_Extracted_from_Data_Top_Industries_Ranked_by_Average_Funding_Raised",
+          "from": "Distinct_Layoff_Years_Extracted_from_Data",
+          "to": "Top_Industries_Ranked_by_Average_Funding_Raised",
+          "on": "`Distinct_Layoff_Years_Extracted_from_Data`.`year(date)` = `Top_Industries_Ranked_by_Average_Funding_Raised`.`year(date)`",
+          "cardinality": "CARDINALITY_MANY_TO_ONE"
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "name": "a03a459a",
+      "displayName": "Dashboard",
+      "layout": [
+        {
+          "widget": {
+            "name": "955653ee",
+            "multilineTextboxSpec": {
+              "lines": [
+                "<span style=\"text-align:center;display:block\"><span style=\"font-size: 36px;font-weight: 700;line-height: 1.5;\">Layoffs in the U.S Analysis</span></span>\n",
+                "\n",
+                "<span style=\"text-align:center;display:block\"><span style=\"font-size:12px;font-weight:700\">From 2020-2023</span></span>"
+              ]
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 12,
+            "height": 2
+          }
+        },
+        {
+          "widget": {
+            "name": "top-10-funds-raised-by-industry",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "fields": [
+                    {
+                      "name": "sum(Top_Industries_Ranked_by_Average_Funding_Raised__avg_funds_raised)",
+                      "expression": "SUM(`Top_Industries_Ranked_by_Average_Funding_Raised`.`avg_funds_raised`)"
+                    },
+                    {
+                      "name": "Top_Industries_Ranked_by_Average_Funding_Raised__industry",
+                      "expression": "`Top_Industries_Ranked_by_Average_Funding_Raised`.`industry`"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "frame": {
+                "showTitle": true,
+                "title": {
+                  "value": "Average of Funds Raised by Industry",
+                  "fields": []
+                }
+              },
+              "version": 3,
+              "widgetType": "bar",
+              "encodings": {
+                "x": {
+                  "fieldName": "sum(Top_Industries_Ranked_by_Average_Funding_Raised__avg_funds_raised)",
+                  "axis": {
+                    "title": "Funds Raised (Millions)"
+                  },
+                  "scale": {
+                    "type": "quantitative"
+                  }
+                },
+                "y": {
+                  "fieldName": "Top_Industries_Ranked_by_Average_Funding_Raised__industry",
+                  "axis": {
+                    "title": "Industry"
+                  },
+                  "scale": {
+                    "type": "categorical",
+                    "categorySize": {
+                      "type": "number-of-categories",
+                      "number": 10
+                    },
+                    "sort": {
+                      "by": "x-reversed"
+                    }
+                  }
+                },
+                "color": {
+                  "fieldName": "sum(Top_Industries_Ranked_by_Average_Funding_Raised__avg_funds_raised)",
+                  "legend": {
+                    "hideTitle": true,
+                    "hide": true
+                  },
+                  "displayName": "Funds Raised (Millions)",
+                  "scale": {
+                    "type": "quantitative"
+                  }
+                },
+                "label": {
+                  "show": true
+                }
+              },
+              "data": {
+                "queryName": "main_query"
+              }
+            }
+          },
+          "position": {
+            "x": 5,
+            "y": 2,
+            "width": 7,
+            "height": 7
+          }
+        },
+        {
+          "widget": {
+            "name": "year",
+            "queries": [
+              {
+                "name": "dashboards/01f1d6d2ee3d176c991b5d284ffca0d4/datasets/01f1d6d5ee3019b9bf6d99f4f88f7182_year(date)",
+                "query": {
+                  "datasetName": "511b0905",
+                  "fields": [
+                    {
+                      "name": "year(date)",
+                      "expression": "`year(date)`"
+                    },
+                    {
+                      "name": "year(date)_associativity",
+                      "expression": "COUNT_IF(`associative_filter_predicate_group`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              },
+              {
+                "name": "dashboards/01f1d6d2ee3d176c991b5d284ffca0d4/datasets/c998adf96efa4cb4a606a9b23b12f192_year(date)",
+                "query": {
+                  "datasetName": "3a76b96d",
+                  "fields": [
+                    {
+                      "name": "year(date)",
+                      "expression": "`year(date)`"
+                    },
+                    {
+                      "name": "year(date)_associativity",
+                      "expression": "COUNT_IF(`associative_filter_predicate_group`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              },
+              {
+                "name": "dashboards/01f1d6d2ee3d176c991b5d284ffca0d4/datasets/8fd0664bbd204538a7b386ddaada6716_year(date)",
+                "query": {
+                  "datasetName": "3f99c2b8",
+                  "fields": [
+                    {
+                      "name": "year(date)",
+                      "expression": "`year(date)`"
+                    },
+                    {
+                      "name": "year(date)_associativity",
+                      "expression": "COUNT_IF(`associative_filter_predicate_group`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "frame": {
+                "showTitle": true,
+                "title": {
+                  "value": "Year",
+                  "fields": []
+                }
+              },
+              "widgetType": "filter-multi-select",
+              "encodings": {
+                "fields": [
+                  {
+                    "fieldName": "year(date)",
+                    "queryName": "dashboards/01f1d6d2ee3d176c991b5d284ffca0d4/datasets/01f1d6d5ee3019b9bf6d99f4f88f7182_year(date)"
+                  },
+                  {
+                    "fieldName": "year(date)",
+                    "queryName": "dashboards/01f1d6d2ee3d176c991b5d284ffca0d4/datasets/c998adf96efa4cb4a606a9b23b12f192_year(date)"
+                  },
+                  {
+                    "fieldName": "year(date)",
+                    "queryName": "dashboards/01f1d6d2ee3d176c991b5d284ffca0d4/datasets/8fd0664bbd204538a7b386ddaada6716_year(date)"
+                  }
+                ]
+              }
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 2,
+            "width": 5,
+            "height": 1
+          }
+        },
+        {
+          "widget": {
+            "name": "sum-of-total-laid-off-by-year-1",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "fields": [
+                    {
+                      "name": "Untitled_dataset_1__year(date)",
+                      "expression": "`Untitled_dataset_1`.`year(date)`"
+                    },
+                    {
+                      "name": "sum(Untitled_dataset_1__sum(total_laid_off))",
+                      "expression": "SUM(`Untitled_dataset_1`.`sum(total_laid_off)`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "frame": {
+                "showTitle": true,
+                "title": {
+                  "value": "Sum Of Total Laid Off By Year",
+                  "fields": []
+                }
+              },
+              "version": 3,
+              "mark": {
+                "lineShape": "linear"
+              },
+              "widgetType": "line",
+              "encodings": {
+                "x": {
+                  "fieldName": "Untitled_dataset_1__year(date)",
+                  "axis": {
+                    "title": "Year"
+                  },
+                  "scale": {
+                    "type": "quantitative"
+                  }
+                },
+                "y": {
+                  "fieldName": "sum(Untitled_dataset_1__sum(total_laid_off))",
+                  "displayName": "Total Laid Off",
+                  "scale": {
+                    "type": "quantitative"
+                  }
+                },
+                "label": {
+                  "show": true
+                }
+              },
+              "data": {
+                "queryName": "main_query"
+              }
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 3,
+            "width": 5,
+            "height": 6
+          }
+        },
+        {
+          "widget": {
+            "name": "sum-of-total-laid-off-by-industry",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "fields": [
+                    {
+                      "name": "sum(Untitled_dataset_2__total_laid_off)",
+                      "expression": "SUM(`Untitled_dataset_2`.`total_laid_off`)"
+                    },
+                    {
+                      "name": "Untitled_dataset_2__industry",
+                      "expression": "`Untitled_dataset_2`.`industry`"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "frame": {
+                "showTitle": true,
+                "title": {
+                  "value": "Sum of Total Laid Off By Industry",
+                  "fields": []
+                }
+              },
+              "version": 3,
+              "widgetType": "bar",
+              "encodings": {
+                "x": {
+                  "fieldName": "sum(Untitled_dataset_2__total_laid_off)",
+                  "axis": {
+                    "title": "Total Laid Off"
+                  },
+                  "scale": {
+                    "type": "quantitative"
+                  }
+                },
+                "y": {
+                  "fieldName": "Untitled_dataset_2__industry",
+                  "axis": {
+                    "title": "Industry"
+                  },
+                  "scale": {
+                    "type": "categorical",
+                    "categorySize": {
+                      "type": "number-of-categories",
+                      "number": 10
+                    },
+                    "sort": {
+                      "by": "x-reversed"
+                    }
+                  }
+                },
+                "color": {
+                  "fieldName": "sum(Untitled_dataset_2__total_laid_off)",
+                  "legend": {
+                    "hideTitle": true,
+                    "hide": true
+                  },
+                  "displayName": "Total Laid Off",
+                  "scale": {
+                    "type": "quantitative"
+                  }
+                },
+                "label": {
+                  "show": true
+                }
+              },
+              "data": {
+                "queryName": "main_query"
+              }
+            }
+          },
+          "position": {
+            "x": 6,
+            "y": 9,
+            "width": 6,
+            "height": 6
+          }
+        },
+        {
+          "widget": {
+            "name": "top-5-average-laid-off-by-industry",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "fields": [
+                    {
+                      "name": "avg(Untitled_dataset_3__avg_percentage_laid_off)",
+                      "expression": "AVG(`Untitled_dataset_3`.`avg_percentage_laid_off`)"
+                    },
+                    {
+                      "name": "Untitled_dataset_3__industry",
+                      "expression": "`Untitled_dataset_3`.`industry`"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "frame": {
+                "showTitle": true,
+                "showDescription": false,
+                "title": {
+                  "value": "Percentage Of Laid Off By Industry",
+                  "fields": []
+                },
+                "description": {
+                  "value": "From 2020-2023",
+                  "fields": []
+                }
+              },
+              "version": 3,
+              "widgetType": "bar",
+              "encodings": {
+                "x": {
+                  "fieldName": "avg(Untitled_dataset_3__avg_percentage_laid_off)",
+                  "format": {
+                    "type": "number-percent",
+                    "decimalPlaces": {
+                      "type": "max",
+                      "places": 2
+                    }
+                  },
+                  "axis": {
+                    "title": "Average Laid Off"
+                  },
+                  "scale": {
+                    "type": "quantitative"
+                  }
+                },
+                "y": {
+                  "fieldName": "Untitled_dataset_3__industry",
+                  "scale": {
+                    "type": "categorical",
+                    "categorySize": {
+                      "type": "number-of-categories",
+                      "number": 10
+                    },
+                    "sort": {
+                      "by": "x-reversed"
+                    }
+                  }
+                },
+                "color": {
+                  "fieldName": "avg(Untitled_dataset_3__avg_percentage_laid_off)",
+                  "legend": {
+                    "hideTitle": true,
+                    "hide": true
+                  },
+                  "scale": {
+                    "type": "quantitative"
+                  }
+                },
+                "label": {
+                  "show": true
+                }
+              },
+              "data": {
+                "queryName": "main_query"
+              }
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 9,
+            "width": 6,
+            "height": 6
+          }
+        }
+      ],
+      "pageType": "PAGE_TYPE_CANVAS",
+      "layoutVersion": "GRID_V1"
+    }
+  ],
+  "uiSettings": {
+    "theme": {
+      "widgetHeaderAlignment": "ALIGNMENT_UNSPECIFIED"
+    },
+    "applyModeEnabled": false
+  }
+}
