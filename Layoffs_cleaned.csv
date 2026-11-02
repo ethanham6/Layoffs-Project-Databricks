@@ -1,0 +1,1001 @@
+company,location,industry,stage,country,total_laid_off,percentage_laid_off,funds_raised_millions,date
+#Paid,Toronto,Marketing,Series B,Canada,19,0.17,21,2023-01-27
+&Open,Dublin,Marketing,Series A,Ireland,9,0.09,35,2022-11-17
+100 Thieves,Los Angeles,Consumer,Series C,United States,12,null,120,2022-07-13
+10X Genomics,SF Bay Area,Healthcare,Post-IPO,United States,100,0.08,242,2022-08-04
+1stdibs,New York City,Retail,Series D,United States,70,0.17,253,2020-04-02
+2TM,Sao Paulo,Crypto,Unknown,Brazil,100,0.15,250,2022-09-01
+2TM,Sao Paulo,Crypto,Unknown,Brazil,90,0.12,250,2022-06-01
+2U,Washington D.C.,Education,Post-IPO,United States,null,0.2,426,2022-07-28
+54gene,Washington D.C.,Healthcare,Series B,United States,95,0.3,44,2022-08-29
+5B Solar,Sydney,Energy,Series A,Australia,null,0.25,12,2022-06-03
+6sense,SF Bay Area,Sales,Series E,United States,150,0.1,426,2022-10-12
+80 Acres Farms,Cincinnati,Food,Unknown,United States,null,0.1,275,2023-01-18
+8x8,SF Bay Area,Support,Post-IPO,United States,200,0.09,253,2022-10-04
+8x8,SF Bay Area,Support,Post-IPO,United States,155,0.07,253,2023-01-18
+98point6,Seattle,Healthcare,Series E,United States,null,0.1,247,2022-07-21
+99,Sao Paulo,Transportation,Acquired,Brazil,75,0.02,244,2022-09-20
+AU10TIX,Tel Aviv,Security,Unknown,Israel,19,0.09,80,2023-01-31
+Abra,SF Bay Area,Crypto,Series C,United States,12,0.05,106,2022-06-30
+Absci,Vancouver,Healthcare,Post-IPO,United States,40,null,237,2022-08-09
+Acast,Stockholm,Media,Post-IPO,Sweden,70,0.15,126,2022-09-15
+Acko,Mumbai,Finance,Unknown,India,45,0.09,143,2020-04-01
+Acorns,Portland,Finance,Unknown,United States,50,null,207,2020-05-26
+Actifio,Boston,Data,Acquired,United States,54,null,352,2020-12-16
+ActiveCampaign,Chicago,Marketing,Series C,United States,null,0.15,360,2022-10-03
+AdRoll,Salt Lake City,Marketing,Series C,United States,210,0.3,89,2020-03-31
+Ada,Toronto,Support,Series C,Canada,78,0.16,190,2022-09-20
+Ada Health,Berlin,Healthcare,Series B,Germany,50,null,189,2022-10-17
+Ada Support,Toronto,Support,Series B,Canada,36,0.23,60,2020-04-24
+Adaptive Biotechnologies,Seattle,Healthcare,Post-IPO,United States,100,0.12,406,2022-03-08
+Addepar,SF Bay Area,Finance,Series F,United States,20,0.03,491,2023-01-18
+Adobe,SF Bay Area,Marketing,Post-IPO,United States,100,null,2,2022-12-06
+Advata,Seattle,Healthcare,NULL,United States,32,0.21,null,2022-10-28
+Adwerx,Durham,Marketing,Unknown,United States,40,null,20,2022-07-07
+Affirm,SF Bay Area,Finance,Post-IPO,United States,500,0.19,1500,2023-02-08
+Affirm,SF Bay Area,Finance,Post-IPO,United States,null,0.01,1500,2022-11-03
+Afterverse,Brasilia,Consumer,Unknown,Brazil,60,0.2,null,2022-06-03
+Agoda,Singapore,Travel,Acquired,Singapore,1500,0.25,null,2020-05-18
+Ahead,SF Bay Area,Healthcare,Unknown,United States,44,1,9,2022-04-14
+Air,New York City,Marketing,Series A,United States,null,0.16,18,2020-09-16
+Airbnb,SF Bay Area,Travel,Post-IPO,United States,30,null,6400,2023-03-03
+Airbnb,SF Bay Area,Travel,Private Equity,United States,1900,0.25,5400,2020-05-05
+Airlift,Lahore,Logistics,Series B,Pakistan,null,0.31,109,2022-05-25
+Airlift,Lahore,Logistics,Series B,Pakistan,null,1,109,2022-07-12
+Airtable,SF Bay Area,Product,Series F,United States,254,0.2,1400,2022-12-08
+Airtame,Copenhagen,Consumer,Unknown,Denmark,15,null,7,2022-06-15
+Airtime,New York City,Consumer,Series B,United States,30,0.2,33,2022-05-23
+Airy Rooms,Jakarta,Travel,Unknown,Indonesia,null,1,null,2020-05-07
+Airy Rooms,Jakarta,Travel,Unknown,Indonesia,null,0.7,null,2020-04-22
+Aiven,Helsinki,Infrastructure,Series D,Finland,null,0.2,420,2023-01-18
+Ajaib,Jakarta,Finance,Unknown,Indonesia,67,0.08,245,2022-11-28
+Akili Labs,Baltimore,Healthcare,Seed,United States,46,0.3,null,2023-01-12
+Akulaku,Jakarta,Finance,Series D,Indonesia,100,null,160,2020-04-15
+AlayaCare,Montreal,Healthcare,Series D,Canada,80,0.14,293,2022-08-16
+Albert,Los Angeles,Finance,Series C,United States,20,0.08,175,2022-06-10
+Alerzo,Ibadan,Retail,Series B,Nigeria,400,null,16,2023-03-06
+AliExpress Russia,Moscow,Retail,Acquired,Russia,400,0.4,60,2022-05-14
+Alice,Sao Paulo,Healthcare,Series C,Brazil,113,0.16,174,2022-12-09
+Alice,Sao Paulo,Healthcare,Series C,Brazil,63,null,174,2022-07-11
+Allbirds,SF Bay Area,Retail,Post-IPO,United States,23,null,202,2022-07-28
+Alto Pharmacy,SF Bay Area,Healthcare,Series D,United States,47,0.06,356,2020-09-29
+Amazon,Seattle,Retail,Post-IPO,United States,10000,0.03,108,2022-11-16
+Amazon,Seattle,Retail,Post-IPO,United States,150,null,108,2022-10-28
+Amazon,Seattle,Retail,Post-IPO,United States,8000,0.02,108,2023-01-04
+Amber Group,Hong Kong,Crypto,Series B,Hong Kong,null,0.1,328,2022-09-09
+Ambev Tech,Blumenau,Food,Acquired,Brazil,50,null,null,2023-03-02
+Amdocs,St. Louis,Support,Post-IPO,United States,700,0.03,null,2023-01-02
+American Robotics,Boston,Other,Acquired,United States,50,0.65,92,2023-01-17
+Amount,Chicago,Finance,Unknown,United States,130,0.25,283,2023-02-27
+Amount,Chicago,Finance,Unknown,United States,null,0.18,283,2022-06-27
+Amperity,Seattle,Marketing,Series D,United States,13,0.03,187,2022-08-20
+Amplero,Seattle,Marketing,Series B,United States,17,1,25,2020-03-29
+Anagram,Los Angeles,Healthcare,Series A,United States,17,null,14,2020-04-03
+Andela,New York City,Recruiting,Series D,United States,135,0.1,181,2020-05-05
+AngelList,SF Bay Area,Recruiting,Series B,United States,20,null,26,2020-03-31
+Anodot,Tel Aviv,Data,Series C,United States,35,0.27,64,2022-07-06
+Antidote Health,Tel Aviv,Healthcare,Unknown,Israel,23,0.38,36,2022-10-23
+Anywell,Tel Aviv,Real Estate,Series A,Israel,11,null,15,2022-08-14
+Apartment List,SF Bay Area,Real Estate,Series D,United States,29,0.1,169,2022-08-31
+Apollo,SF Bay Area,Product,Series D,United States,null,0.15,183,2022-12-15
+Apollo Insurance,Vancouver,Finance,Series B,Canada,null,0.25,11,2022-11-15
+App Annie,SF Bay Area,Data,Unknown,United States,80,0.18,156,2020-04-28
+AppGate,Miami,Security,Post-IPO,United States,34,0.08,null,2023-02-01
+AppGate,Miami,Security,Post-IPO,United States,130,0.22,null,2022-07-21
+AppLovin,SF Bay Area,Marketing,Post-IPO,United States,300,0.12,1600,2022-06-27
+ApplyBoard,Waterloo,Education,Series D,Canada,90,0.06,483,2022-11-28
+Aqgromalin,Chennai,Food,Unknown,India,80,0.3,12,2022-06-20
+Aqua Security,Boston,Security,Series E,United States,65,0.1,265,2022-12-05
+Aqua Security,Tel Aviv,Security,Series C,Israel,24,0.09,100,2020-04-01
+Arc,SF Bay Area,HR,Seed,United States,13,null,1,2022-07-20
+Arch Oncology,Brisbane,Healthcare,Series C,United States,null,1,155,2023-01-13
+Argo AI,Pittsburgh,Transportation,Unknown,United States,150,0.05,3600,2022-07-07
+Argo AI,SF Bay Area,Transportation,Unknown,United States,259,null,3600,2022-11-01
+Argo AI,Munich,Transportation,Unknown,Germany,100,null,3600,2020-06-29
+Argo AI,Pittsburgh,Transportation,Unknown,United States,173,null,3600,2022-10-26
+Argyle,New York City,Finance,Series B,United States,20,0.07,78,2022-08-26
+Armis,SF Bay Area,Security,Private Equity,United States,25,0.04,537,2022-12-08
+Arrival,London,Transportation,Post-IPO,United Kingdom,null,0.3,629,2022-07-13
+Arrival,London,Transportation,Post-IPO,United Kingdom,800,0.5,629,2023-01-30
+Arrive Logistics,Austin,Logistics,Series B,United States,75,0.07,35,2020-04-03
+Article,Vancouver,Retail,Series B,Canada,216,0.17,null,2022-08-04
+Articulate,New York City,Education,Series A,United States,38,null,1500,2023-02-02
+Artnight,Berlin,Retail,Unknown,Germany,26,0.36,null,2022-08-31
+Asana,SF Bay Area,Other,Post-IPO,United States,180,0.09,453,2022-11-15
+Aspire,SF Bay Area,Marketing,Series A,United States,23,null,27,2022-07-15
+Assure,Salt Lake City,Finance,Seed,United States,null,1,2,2022-11-23
+Astra,SF Bay Area,Aerospace,Post-IPO,United States,null,0.16,300,2022-11-08
+Astra,SF Bay Area,Aerospace,Unknown,United States,40,0.25,100,2020-04-05
+Astronomer,Cincinnati,Data,Series C,United States,76,0.2,282,2023-01-04
+Atlanta Tech Village,Atlanta,Real Estate,Unknown,United States,null,0.5,null,2020-04-02
+Atlas Obscura,New York City,Media,Series B,United States,15,null,32,2020-06-18
+Atlassian,Sydney,Other,Post-IPO,Australia,500,0.05,210,2023-03-06
+AtoB,SF Bay Area,Finance,Series B,United States,32,0.3,177,2022-10-19
+Atsu,Seattle,Infrastructure,Unknown,United States,6,1,1,2020-04-10
+Attentive,New York City,Marketing,Series E,United States,null,0.15,863,2023-01-05
+Augury,New York City,Manufacturing,Series E,United States,20,0.05,274,2023-01-04
+Aura,Boston,Security,Series F,United States,70,0.09,500,2022-06-23
+Aura Financial,SF Bay Area,Finance,Unknown,United States,null,1,584,2021-01-11
+Autodesk,SF Bay Area,Other,Post-IPO,United States,250,0.02,null,2023-02-02
+Automatic,SF Bay Area,Transportation,Acquired,United States,null,1,24,2020-05-01
+Automation Anywhere,SF Bay Area,Other,Series B,United States,260,0.1,840,2020-04-27
+Automox,Boulder,Infrastructure,Series C,United States,null,0.11,152,2022-04-18
+AvantStay,Los Angeles,Travel,Private Equity,United States,144,0.22,686,2022-11-09
+AvantStay,Los Angeles,Travel,Unknown,United States,80,null,811,2022-06-29
+Avantage Entertainment,Minneapolis,Media,Unknown,United States,5,0.2,null,2020-04-03
+Avast,Phoenix,Security,Unknown,United States,null,0.25,null,2022-11-10
+Avo,Tel Aviv,Food,Series B,Israel,500,0.67,45,2022-05-01
+Away,New York City,Retail,Series D,United States,60,0.1,181,2020-04-07
+Awok,Dubai,Retail,Series A,United Arab Emirates,null,1,30,2020-09-02
+Aya,Toronto,Finance,Seed,United States,5,0.25,3,2020-11-19
+B8ta,SF Bay Area,Retail,Series C,United States,250,0.5,88,2020-03-26
+BM Technologies,Philadelphia,Finance,Post-IPO,United States,null,0.25,null,2023-01-30
+BVAccel,San Diego,Marketing,Unknown,United States,25,0.25,null,2020-04-08
+Babylon,London,Healthcare,Post-IPO,United Kingdom,100,null,1100,2022-07-12
+Back Market,Paris,Retail,Series E,France,93,0.13,1000,2022-12-23
+Bakkt,Atlanta,Crypto,Post-IPO,United States,null,0.15,932,2022-12-08
+Bally's Interactive,Providence,null,Post-IPO,United States,null,0.15,946,2023-01-18
+Balto,St. Louis,Sales,Series B,United States,30,null,51,2022-06-22
+Balto,St. Louis,Sales,Series B,United States,35,null,51,2022-12-12
+Bamboo Health,Louisville,Healthcare,Unknown,United States,52,null,null,2022-07-01
+Banxa,Melbourne,Crypto,Post-IPO,Australia,70,0.3,13,2022-06-27
+Baraja,Sydney,Transportation,Unknown,Australia,null,0.75,63,2023-02-08
+Bark,New York City,Retail,Post-IPO,United States,126,0.12,null,2023-02-09
+Baton,SF Bay Area,Transportation,Series A,United States,16,0.25,13,2022-06-29
+Beam Benefits,Columbus,Healthcare,Series E,United States,31,0.08,168,2023-02-08
+Beamery,London,HR,Series D,United States,null,0.12,223,2023-01-10
+BeeTech,Sao Paulo,Finance,Series B,Brazil,30,null,14,2020-04-10
+Bench,Vancouver,Finance,Series B,Canada,47,0.1,49,2020-03-27
+Benevity,Calgary,Other,Unknown,Canada,137,0.14,69,2023-01-18
+Benitago Group,New York City,Retail,Series A,United States,null,0.14,380,2022-11-04
+Berkeley Lights,SF Bay Area,Healthcare,Post-IPO,United States,null,0.12,272,2022-08-09
+Berlin Brands Group,Berlin,Retail,Unknown,Germany,100,0.1,1000,2022-06-10
+Bestow,Dallas,Finance,Series C,United States,41,0.14,137,2022-06-24
+Better.com,New York City,Real Estate,Unknown,United States,3000,0.33,905,2022-03-08
+Better.com,New York City,Real Estate,Unknown,United States,900,0.09,905,2021-12-01
+Betterfly,Santiago,Healthcare,Series C,Chile,30,null,204,2022-08-11
+Betterfly,Santiago,Healthcare,Series C,Chile,null,0.3,204,2023-01-18
+Betterment,New York City,Finance,Series F,United States,28,null,435,2023-02-15
+Bevi,Boston,Food,Series C,United States,30,0.2,60,2020-03-27
+Beyond Meat,Los Angeles,Food,Post-IPO,United States,40,null,122,2022-08-03
+Beyond Meat,Los Angeles,Food,Post-IPO,United States,200,0.19,122,2022-10-14
+BeyondMinds,Tel Aviv,Data,Series A,Israel,65,1,16,2022-05-23
+BharatAgri,Mumbai,Food,Series A,India,40,0.43,21,2023-01-15
+Big Fish Games,Seattle,Media,Acquired,United States,250,null,95.2,2020-09-01
+BigBear.ai,Baltimore,Data,Post-IPO,United States,null,0.07,200,2022-09-08
+BigCommerce,Austin,Retail,Post-IPO,United States,180,0.13,224,2022-12-15
+Bilibili,Shanghai,Media,Post-IPO,China,null,0.3,3700,2022-12-27
+BioMarin,SF Bay Area,Healthcare,Post-IPO,United States,120,0.04,585,2022-10-07
+Bird,Los Angeles,Transportation,Post-IPO,United States,138,0.23,783,2022-06-07
+Bird,Los Angeles,Transportation,Series D,United States,406,0.3,623,2020-03-27
+BitGo,SF Bay Area,Crypto,Series B,United States,null,0.12,69,2020-04-17
+BitMEX,Non-U.S.,Crypto,Seed,Seychelles,75,0.25,0,2022-04-04
+BitMEX,Non-U.S.,Crypto,Seed,Seychelles,null,0.3,0,2022-11-02
+BitOasis,Dubai,Crypto,Series B,United Arab Emirates,9,0.05,30,2022-06-19
+BitSight,Tel Aviv,Security,Unknown,Israel,40,null,401,2023-02-26
+BitTitan,Seattle,Data,Acquired,United States,70,0.27,46,2021-11-18
+BitTorrent,SF Bay Area,Infrastructure,Acquired,United States,92,null,null,2023-01-20
+Bitfront,SF Bay Area,Crypto,Unknown,United States,null,1,null,2022-11-29
+Bitpanda,Vienna,Crypto,Series C,Austria,270,0.27,546,2022-06-24
+Bitrise,Budapest,Infrastructure,Series C,Hungary,null,0.14,83,2022-09-14
+Bitso,Mexico City,Crypto,Series C,Mexico,80,0.11,378,2022-05-26
+Bitso,Mexico City,Crypto,Series C,Mexico,100,null,378,2022-11-29
+Bittrex,Seattle,Crypto,Unknown,United States,80,null,null,2023-02-02
+Bizongo,Mumbai,Logistics,Series C,India,140,null,70,2020-07-10
+Bizpay,Sydney,Finance,Unknown,Australia,null,0.3,45,2022-05-04
+Bizzabo,New York City,Marketing,Series E,United States,100,0.37,194,2022-12-01
+Bizzabo,New York City,Marketing,Series E,United States,120,0.3,194,2022-07-05
+Black Shark,Shenzen,Hardware,Unknown,China,900,null,null,2023-01-13
+BlackBuck,Bengaluru,Logistics,Series D,India,200,null,293,2020-04-17
+BlackLine,Los Angeles,Finance,Private Equity,United States,95,0.05,220,2022-12-08
+Blackbaud,Charleston,Other,Post-IPO,United States,500,0.14,null,null
+Bleacher Report,London,Media,Acquired,United Kingdom,20,null,40.5,2020-09-11
+Blend,SF Bay Area,Finance,Post-IPO,United States,100,0.06,665,2022-11-10
+Blend,SF Bay Area,Finance,Post-IPO,United States,220,0.12,665,2022-08-15
+Blend,SF Bay Area,Finance,Post-IPO,United States,340,0.28,665,2023-01-10
+Blend,SF Bay Area,Finance,Post-IPO,United States,200,0.1,665,2022-04-19
+BlockFi,New York City,Crypto,Series E,United States,null,1,1000,2022-11-28
+BlockFi,New York City,Crypto,Series E,United States,250,0.2,1000,2022-06-13
+Blockchain.com,London,Crypto,Series D,United Kingdom,110,0.28,490,2023-01-12
+Blockchain.com,London,Crypto,Series D,United Kingdom,150,0.25,490,2022-07-21
+BloomTech,SF Bay Area,Education,Unknown,United States,88,0.5,null,2022-12-01
+Blue Apron,New York City,Food,Post-IPO,United States,null,0.1,352,2022-12-08
+BlueStacks,SF Bay Area,Other,Series C,United States,60,null,48,2022-07-20
+Blueground,New York City,Real Estate,Series B,United States,130,0.25,77,2020-03-27
+Blume Global,SF Bay Area,Logistics,Unknown,United States,30,0.1,null,2020-03-30
+Bluprint,Denver,Education,Acquired,United States,137,1,108,2020-05-26
+Bolt,SF Bay Area,Finance,Series E,United States,240,0.27,1300,2022-05-25
+Bolt,SF Bay Area,Finance,Series E,United States,50,0.1,1300,2023-01-24
+Bolt,Lagos,Transportation,Series F,Nigeria,17,null,null,2023-02-21
+Bonsai,Toronto,Retail,Series A,Canada,29,0.34,27,2022-04-26
+Bonsai,Toronto,Retail,Series A,Canada,30,0.55,27,2022-06-20
+Bonterra,Austin,Other,Unknown,United States,140,0.1,null,2023-01-13
+BookClub,Salt Lake City,Education,Series A,United States,12,0.25,26,2022-05-31
+BookMyShow,Mumbai,Consumer,Unknown,India,270,0.18,224,2020-05-28
+Booking.com,Amsterdam,Travel,Acquired,Netherlands,4375,0.25,null,2020-07-30
+Booking.com,Grand Rapids,Travel,Acquired,United States,226,null,null,2022-11-01
+Booksy,SF Bay Area,Consumer,Series B,United States,200,null,48,2020-04-01
+Booktopia,Sydney,Retail,Series A,Australia,30,null,23,2023-01-23
+Boosted Commerce,Los Angeles,Retail,Series B,United States,null,0.05,137,2022-07-22
+Boozt,Malmo,Retail,Post-IPO,Sweden,70,0.05,56,2022-06-09
+Borrowell,Toronto,Finance,Series B,Canada,15,0.2,72,2020-04-06
+Bossa Nova,SF Bay Area,Retail,Unknown,United States,61,null,101.6,2020-06-29
+Bossa Nova,SF Bay Area,Retail,Unknown,United States,null,0.5,101.6,2020-11-02
+Bounce,Bengaluru,Transportation,Series D,India,40,0.05,214,2023-01-06
+Bounce,Bengaluru,Transportation,Series D,India,120,null,214,2020-03-19
+Bounce,Bengaluru,Transportation,Series D,India,200,0.4,214.2,2021-02-22
+Bounce,Bengaluru,Transportation,Series D,India,130,0.22,214.2,2020-06-29
+BounceX,New York City,Marketing,Series B,United States,77,0.2,75,2020-04-06
+Brainly,Krakow,Education,Series D,Poland,25,null,148,2022-11-06
+Branch,New York City,Retail,Seed,United States,3,0.27,2,2020-06-11
+Branch Metrics,SF Bay Area,Marketing,Series E,United States,100,0.2,367,2020-04-07
+Brave Care,Portland,Healthcare,Series B,United States,40,0.33,42,2022-09-06
+Breathe,New Delhi,Healthcare,Series A,India,50,0.33,6,2022-06-14
+Breather,Montreal,Real Estate,Series D,Canada,120,0.8,131,2020-12-16
+Brex,SF Bay Area,Finance,Series D,United States,136,0.11,1500,2022-10-11
+Brex,SF Bay Area,Finance,Series C,United States,62,0.15,732,2020-05-29
+Bridge Connector,Nashville,Healthcare,Series B,United States,154,1,45,2020-11-17
+Bridgit,Waterloo,Construction,Series B,Canada,13,0.13,36,2022-12-06
+Bright Machines,SF Bay Area,Data,Unknown,Israel,30,0.08,250,2022-06-28
+Bright Money,Bengaluru,Finance,Series A,India,100,0.5,31,2022-07-15
+Brighte,Sydney,Energy,Series C,Australia,30,0.15,145,2022-06-20
+Brighte,Sydney,Energy,Series C,Australia,58,null,145,2022-09-09
+Brightline,SF Bay Area,Healthcare,Series C,United States,null,0.2,212,2022-11-01
+Bringg,Tel Aviv,Logistics,Series D,Israel,10,0.1,84,2020-04-21
+Britishvolt,London,Transportation,Unknown,United Kingdom,206,1,2400,2023-01-17
+Briza,Toronto,Finance,Series A,Canada,26,0.4,10,2022-12-20
+Brodmann17,Tel Aviv,Other,Series A,Israel,null,1,25,2022-12-09
+Bryter,Berlin,Product,Series B,Germany,100,0.3,89,2022-07-13
+Buenbit,Buenos Aires,Crypto,Series A,Argentina,80,0.45,11,2022-05-23
+Builder,Los Angeles,Product,Series A,United States,39,0.14,29,2020-06-04
+Built In,Chicago,Recruiting,Series C,United States,28,null,29,2020-04-10
+Built In,Chicago,Recruiting,Series C,United States,50,0.25,29,2022-10-05
+Bullhorn,Boston,Sales,Acquired,United States,100,null,32,2020-04-30
+Bullish,Hong Kong,Crypto,Unknown,Hong Kong,30,0.08,300,2022-07-05
+Bungalow,SF Bay Area,Real Estate,Series C,United States,70,null,171,2022-06-22
+BusBud,Montreal,Transportation,Series B,Canada,23,0.32,21,2020-04-06
+Buser,Sao Paulo,Transportation,Series C,Brazil,160,0.3,138,2022-12-08
+Bustle Digital Group,New York City,Media,Series E,United States,19,null,80,2020-04-03
+Bustle Digital Group,New York City,Media,Series E,United States,null,0.08,80,2023-02-01
+Bustle Digital Group,New York City,Media,Series E,United States,24,0.08,80,2020-04-03
+Butler Hospitality,New York City,Food,Series B,United States,1000,1,50,2022-07-08
+Butterfly Network,New Haven,Healthcare,Post-IPO,United States,null,0.1,530,2022-08-02
+Butterfly Network,Boston,Healthcare,Post-IPO,United States,null,0.25,530,2023-01-04
+Button,New York City,Marketing,Series C,United States,48,0.35,64,2020-04-08
+Buy.com / Rakuten,SF Bay Area,Retail,Acquired,United States,87,1,42.4,2020-07-30
+BuzzFeed,New York City,Media,Post-IPO,United States,180,0.12,696,2022-12-06
+Buzzer,New York City,Media,Unknown,United States,null,0.2,32,2022-06-20
+Bybit,Singapore,Crypto,Unknown,Singapore,600,0.3,null,2022-06-20
+Bybit,Singapore,Crypto,Unknown,Singapore,null,0.3,null,2022-12-03
+Byju's,Bengaluru,Education,Private Equity,India,1500,null,5500,2023-02-02
+Byju's,Bengaluru,Education,Private Equity,India,2500,0.05,5500,2022-10-12
+ByteDance,Shanghai,Consumer,Unknown,China,null,0.1,9400,2023-01-03
+Bytedance,Mumbai,Consumer,Unknown,India,1800,null,7400,2021-01-27
+Bytedance,Shanghai,Consumer,Unknown,China,1800,null,9400,2021-08-05
+Bytedance,Shanghai,Consumer,Unknown,China,150,null,9400,2022-06-17
+C2FO,Kansas City,Finance,Series H,United States,20,0.02,537,2022-12-09
+C6 Bank,Sao Paulo,Finance,Unknown,Brazil,60,0.06,null,2020-04-06
+CNET,SF Bay Area,Media,Acquired,United States,12,0.1,20,2023-03-02
+CS Disco,Austin,Legal,Post-IPO,United States,62,0.09,233,2023-01-19
+CTO.ai,Vancouver,Infrastructure,Seed,Canada,30,0.5,7,2020-03-20
+Cabin,SF Bay Area,Travel,Seed,United States,null,0.2,3,2020-03-23
+Cadre,New York City,Real Estate,Series C,United States,28,0.25,133,2020-05-11
+Calibrate,New York City,Healthcare,Series B,United States,156,0.24,127,2022-07-08
+Caliva,SF Bay Area,Retail,Series A,United States,20,null,75,2020-03-30
+Callisto Media,SF Bay Area,Media,Series D,United States,null,0.35,null,2022-10-25
+Callisto Media,SF Bay Area,Media,Series D,United States,140,0.35,null,2022-07-21
+Calm,SF Bay Area,Healthcare,Series C,United States,90,0.2,218,2022-08-11
+Cameo,Chicago,Consumer,Unknown,United States,80,null,165,2022-11-09
+Cameo,Chicago,Consumer,Unknown,United States,87,0.25,165,2022-05-04
+Camp K12,Gurugram,Education,Series A,India,null,0.7,16,2023-01-23
+Candy Digital,New York City,Crypto,Series A,United States,33,0.33,100,2022-11-28
+Canoo,Los Angeles,Transportation,Post-IPO,United States,58,0.06,300,2022-07-01
+Capital One,Washington D.C.,Finance,Post-IPO,United States,1100,null,null,2023-01-19
+Capitolis,New York City,Finance,Series D,United States,null,0.25,281,2022-11-18
+Capitolis,New York City,Finance,Series D,United States,37,0.25,281,2022-11-17
+Capsule,New York City,Healthcare,Series D,United States,null,0.13,570,2022-07-19
+Captain Fresh,Bengaluru,Food,Series C,India,120,null,126,2023-01-15
+CaptivateIQ,SF Bay Area,Sales,Series C,United States,31,0.1,164,2022-11-15
+CarDekho,Gurugram,Transportation,Series D,India,200,null,247,2020-05-25
+CarGurus,Boston,Transportation,Post-IPO,United States,130,0.13,1,2020-04-16
+Carbon Health,SF Bay Area,Healthcare,Series D,United States,250,0.08,522,2022-06-02
+Carbon Health,SF Bay Area,Healthcare,Series D,United States,200,null,522,2023-01-06
+Cardlytics,Atlanta,Marketing,Post-IPO,United States,51,null,212,2022-11-14
+Care.com,Boston,Consumer,Acquired,United States,81,null,156,2020-04-30
+Careem,Dubai,Transportation,Acquired,United Arab Emirates,536,0.31,771,2020-05-04
+Career Karma,SF Bay Area,Education,Series B,United States,60,0.33,51,2022-07-28
+Career Karma,SF Bay Area,Education,Series B,United States,22,null,51,2023-01-12
+Carousell,Singapore,Retail,Private Equity,Singapore,110,0.1,372,2022-12-01
+Cars24,Gurugram,Transportation,Series G,India,600,0.06,1300,2022-05-19
+Carsome,Kuala Lumpur,Transportation,Series E,Malaysia,null,0.1,607,2022-09-30
+Carta,SF Bay Area,HR,Series G,United States,null,0.1,1100,2023-01-11
+Carta,SF Bay Area,Finance,Series E,United States,161,0.16,447,2020-04-15
+Carvana,Phoenix,Transportation,Post-IPO,United States,2500,0.12,1600,2022-05-10
+Carvana,Phoenix,Transportation,Post-IPO,United States,1500,0.08,1600,2022-11-18
+Carwow,London,Transportation,Unknown,United Kingdom,70,0.2,157,2022-11-25
+Casavo,Milan,Real Estate,Unknown,Italy,null,0.3,708,2023-02-13
+Cashfree Payments,Bengaluru,Finance,Series B,India,100,null,41,2023-01-12
+Casper,New York City,Retail,Post-IPO,United States,78,0.21,339,2020-04-21
+Castlight Health,SF Bay Area,Healthcare,Post-IPO,United States,null,0.13,184,2020-05-04
+Catalant,Boston,Other,Series E,United States,30,null,110,2020-03-30
+Catch.com.au,Melbourne,Retail,Acquired,Australia,100,null,80,2023-02-06
+Cazoo,London,Transportation,Post-IPO,United Kingdom,750,0.15,2000,2022-06-07
+Cedar,New York City,Healthcare,Series D,United States,null,0.24,351,2022-07-07
+Celsius,New York City,Crypto,Series B,United States,150,0.25,864,2022-07-03
+Cerebral,SF Bay Area,Healthcare,Series C,United States,285,0.15,462,2023-02-27
+Cerebral,SF Bay Area,Healthcare,Series C,United States,400,0.2,462,2022-10-24
+Chainalysis,New York City,Crypto,Series F,United States,44,0.05,536,2023-02-01
+Change Invest,Amsterdam,Finance,Unknown,Netherlands,null,0.24,22,2022-11-27
+Change.org,SF Bay Area,Other,Series D,United States,null,0.19,72,2022-07-28
+Chargebee,SF Bay Area,Finance,Series H,United States,142,0.1,468,2022-11-02
+Checkmarx,Tel Aviv,Security,Series C,Israel,100,0.1,92,2022-11-02
+Checkout.com,London,Finance,Series D,United Kingdom,100,0.05,1800,2022-09-13
+Checkr,SF Bay Area,HR,Series D,United States,64,0.12,309,2020-07-23
+Chessable,London,Consumer,Acquired,United Kingdom,29,null,0,2022-07-04
+Chili Piper,New York City,Sales,Series B,United States,58,null,54,2022-11-17
+Chime,SF Bay Area,Finance,Series G,United States,156,0.12,2300,2022-11-02
+Chipper Cash,SF Bay Area,Finance,Series C,United States,100,0.33,302,2023-02-17
+Chipper Cash,SF Bay Area,Finance,Series C,United States,50,0.125,302,2022-12-06
+Chope,Singapore,Food,Series E,Singapore,65,0.24,50,2022-12-20
+ChowNow,Los Angeles,Food,Series C,United States,100,0.2,64,2022-07-13
+ChowNow,Los Angeles,Food,Series C,United States,40,0.1,64,2022-12-14
+Chrono24,Karlsruhe,Retail,Series C,Germany,65,0.13,205,2023-01-30
+Chrono24,Karlsruhe,Retail,Series C,Germany,80,null,205,2022-12-08
+Circ,Berlin,Transportation,Acquired,Germany,100,null,55,2020-06-02
+CircleCI,SF Bay Area,Product,Series F,United States,null,0.17,315,2022-12-07
+Circulo Health,Columbus,Healthcare,Series A,United States,null,0.5,50,2022-06-16
+Cisco,SF Bay Area,Infrastructure,Post-IPO,United States,4100,0.05,2,2022-11-16
+Citizen,New York City,Consumer,Series C,United States,33,null,133,2023-01-11
+Citrine Informatics,SF Bay Area,Data,Series C,United States,22,0.27,64,2023-01-20
+Citrix,Miami,Infrastructure,Acquired,United States,null,0.15,20,2023-01-10
+CityMall,Gurugram,Retail,Series C,India,191,0.3,112,2022-06-19
+Clari,SF Bay Area,Sales,Series F,United States,20,null,496,2023-02-06
+Clari,SF Bay Area,Sales,Series F,United States,45,null,496,2022-08-31
+Clarify Health,SF Bay Area,Healthcare,Series D,United States,15,0.05,328,2022-07-22
+ClassPass,New York City,Fitness,Series E,United States,154,0.22,549,2020-04-02
+Clear,Bengaluru,Finance,Series C,India,190,0.2,140,2022-09-16
+Clear Capital,Reno,Real Estate,Unknown,United States,250,0.25,null,2023-01-25
+Clear Capital,Reno,Real Estate,Unknown,United States,378,0.27,null,2022-10-14
+ClearCo,Toronto,Finance,Series C,Canada,50,0.3,698,2023-01-16
+Clearbanc,Toronto,Finance,Series B,Canada,17,0.08,119,2020-04-13
+Clearco,Toronto,Fin-Tech,Series C,Canada,125,0.25,681,2022-07-29
+Clearco,Toronto,Finance,Series C,Canada,60,null,681,2022-06-06
+CleverTap,Mumbai,Marketing,Series C,India,60,0.2,76,2020-04-16
+ClickUp,San Diego,Other,Series C,United States,60,0.07,537,2022-05-23
+Clinc,Ann Arbor,Support,Series B,United States,40,0.32,59,2020-04-09
+CloudFactory,Nairobi,Data,Private Equity,Kenya,null,0.12,78,2022-11-09
+Cloudinary,SF Bay Area,Media,Unknown,United States,40,0.08,100,2022-11-14
+Clue,Berlin,Healthcare,Unknown,Germany,31,0.31,47,2023-01-18
+Clutch,Toronto,Transportation,Series B,Canada,76,0.22,153,2022-06-29
+Clutch,Toronto,Transportation,Unknown,Canada,150,null,253,2023-01-17
+Clutter,Los Angeles,Consumer,Series D,United States,null,0.3,296,2020-03-25
+Clyde,New York City,Marketing,Series B,United States,22,null,58,2022-04-25
+CoachHub,Berlin,HR,Series C,Germany,null,0.1,332,2023-01-24
+Code42,Minneapolis,Data,Series B,United States,25,0.05,137.5,2020-04-09
+Code42,Minneapolis,Security,Unknown,United States,null,0.15,137,2022-11-07
+CodeCombat,SF Bay Area,Education,Series A,United States,8,null,8,2020-10-23
+Codexis,SF Bay Area,Healthcare,Post-IPO,United States,null,0.18,162,2022-11-29
+Coding Dojo,Seattle,Education,Unknown,United States,7,0.07,2,2020-04-02
+Cogito,Boston,Support,Series C,United States,24,0.14,92,2020-04-06
+Cognyte,Tel Aviv,Security,Unknown,Israel,100,0.05,null,2022-12-02
+CoinDCX,Mumbai,Crypto,Series D,India,80,null,244,2023-01-11
+CoinJar,Melbourne,Crypto,Unknown,Australia,10,0.2,1,2022-11-29
+CoinTracker,SF Bay Area,Crypto,Series A,United States,19,null,101,2023-01-28
+Coinbase,SF Bay Area,Crypto,Post-IPO,United States,950,0.2,549,2023-01-10
+Coinbase,SF Bay Area,Crypto,Post-IPO,United States,60,null,549,2022-11-10
+Coinbase,SF Bay Area,Crypto,Post-IPO,United States,1100,0.18,549,2022-06-14
+Coinsquare,Toronto,Crypto,Unknown,Canada,30,0.24,98,2022-07-27
+Collective Health,SF Bay Area,Healthcare,Series F,United States,54,null,719,2023-02-13
+Color Health,SF Bay Area,Healthcare,Series E,United States,300,null,482,2023-03-01
+Colossus,Boston,Energy,Series A,United States,97,null,41,2022-05-04
+CommerceHub,Albany,Retail,Acquired,United States,371,0.31,null,2023-02-14
+CommonBond,New York City,Finance,Series D,United States,null,1,125,2022-09-09
+CommonBond,New York City,Finance,Series D,United States,22,null,130,2022-05-13
+Community,Los Angeles,Marketing,Unknown,United States,40,0.3,40,2022-06-21
+Compass,New York City,Real Estate,Post-IPO,United States,271,null,1600,2022-09-20
+Compass,New York City,Real Estate,Post-IPO,United States,450,0.1,1600,2022-06-14
+Compass,New York City,Real Estate,Series G,United States,375,0.15,1600,2020-03-23
+Compete,Tel Aviv,HR,Series A,Israel,11,0.28,17,2022-09-12
+Confluent,SF Bay Area,Data,Post-IPO,United States,221,0.08,455,2023-01-26
+Conga,Denver,Data,Acquired,United States,null,0.11,117,2020-06-15
+Connected,Toronto,Product,Unknown,Canada,17,0.1,null,2020-04-08
+ConsenSys,New York City,Crypto,Series D,United States,100,0.11,726,2023-01-10
+ConsenSys,New York City,Crypto,Unknown,United States,91,0.14,10,2020-04-20
+Consider.co,SF Bay Area,Other,Seed,United States,13,1,5,2020-03-26
+ContaAzul,Joinville,Education,Series D,Brazil,140,0.35,37,2020-04-17
+ContraFect,New York City,Healthcare,Post-IPO,United States,16,0.37,380,2022-08-15
+Convene,New York City,Real Estate,Series D,United States,150,0.18,280,2020-03-23
+Convoy,Seattle,Logistics,Series D,United States,null,0.01,665,2020-04-23
+Convoy,Seattle,Logistics,Series E,United States,90,0.07,1100,2022-06-09
+Copper,SF Bay Area,Marketing,Series C,United States,35,null,102,2020-04-02
+Core Scientific,Austin,Crypto,Post-IPO,United States,null,0.1,169,2022-08-12
+Corvus Insurance,Boston,Finance,Series C,United States,null,0.14,160,2023-01-24
+Coterie Insurance,Cincinnati,Finance,Series B,United States,30,0.2,70,2022-05-25
+Crayon,Boston,Marketing,Series A,United States,20,0.2,16,2020-04-01
+Credit Sesame,SF Bay Area,Finance,Series F,United States,22,0.14,120,2020-06-03
+Creditas,Sao Paulo,Finance,Series D,Brazil,null,0.06,314,2020-04-08
+Crejo.Fun,Bengaluru,Education,Seed,India,170,1,3,2022-06-30
+CrowdStreet,Portland,Real Estate,Series C,United States,24,0.22,24,2020-06-01
+Cruise,SF Bay Area,Transportation,Acquired,United States,150,0.08,5300,2020-05-14
+Crunchyroll,Tokyo,Media,Unknown,Japan,85,null,26,2023-02-21
+Crypto.com,Singapore,Crypto,Unknown,Singapore,2000,0.3,156,2022-10-06
+Crypto.com,Singapore,Crypto,Unknown,United States,null,0.2,null,2023-01-12
+Crypto.com,Singapore,Crypto,Unknown,Singapore,260,0.05,156,2022-06-10
+Cue,San Diego,Healthcare,Post-IPO,United States,170,null,999,2022-06-27
+Cue,San Diego,Healthcare,Post-IPO,United States,388,null,999,2023-01-05
+Culture Amp,Melbourne,HR,Series E,Australia,36,0.08,157,2020-05-28
+Culture Trip,London,Media,Series B,United Kingdom,95,0.32,102,2020-05-01
+Curative,Los Angeles,Healthcare,Seed,United States,109,null,8,2022-09-20
+CureFit,Bengaluru,Fitness,Series D,India,800,0.16,404,2020-05-04
+Curefit,Bengaluru,Fitness,Series D,India,120,null,404.6,2020-07-17
+Curology,SF Bay Area,Healthcare,Series D,United States,150,null,19,2022-03-16
+Curve,London,Finance,Series C,United Kingdom,65,0.1,182,2022-06-01
+Cvent,Washington D.C.,Marketing,Acquired,United States,400,0.1,146,2020-05-21
+CyCognito,SF Bay Area,Security,Series C,United States,30,0.15,153,2022-12-08
+Cybereason,Boston,Security,Series F,United States,100,0.06,750,2022-06-01
+Cybereason,Boston,Security,Series F,United States,200,0.17,750,2022-10-26
+Cyren,Washington D.C.,Security,Post-IPO,United States,121,null,161,2023-02-01
+Cyteir Therapeutics,Boston,Healthcare,Series C,United States,null,0.7,156,2023-01-20
+D2L,Waterloo,Education,Post-IPO,Canada,null,0.05,168,2022-11-16
+D2iQ,SF Bay Area,Infrastructure,Series D,United States,34,0.13,247,2020-04-03
+DISCO,Austin,Legal,Series E,United States,75,null,133,2020-03-27
+DSCO,Salt Lake City,Retail,Series A,United States,12,null,4,2020-04-03
+DUX Education,Bengaluru,Education,Unknown,India,null,1,null,2023-02-28
+Daily Harvest,New York City,Food,Series D,United States,null,0.15,120,2022-08-08
+Daily Harvest,New York City,Food,Series D,United States,60,0.2,120,2022-02-10
+DailyPay,New York City,Finance,Unknown,United States,null,0.15,814,2022-08-09
+Daloopa,New Delhi,Data,Series A,India,40,null,23,2022-05-27
+Dance,Berlin,Transportation,Unknown,Germany,null,0.16,63,2022-11-16
+Daniel Wellington,Stockholm,Retail,Unknown,Sweden,200,0.15,null,2022-06-09
+Dapper Labs,Vancouver,Crypto,Series D,United States,134,0.22,607,2022-11-02
+Dapper Labs,Vancouver,Crypto,Series D,United States,null,0.2,607,2023-02-23
+Daraz,Singapore,Retail,Unknown,Singapore,null,0.11,null,2023-02-06
+Dark,SF Bay Area,Product,Seed,United States,6,1,3,2020-06-23
+DataRails,Tel Aviv,Finance,Series B,Israel,30,0.18,103,2022-12-05
+DataRobot,Boston,Data,Series G,United States,70,0.07,1000,2022-05-11
+DataRobot,Boston,Data,Series E,United States,200,null,430,2020-03-27
+DataRobot,Boston,Data,Series G,United States,null,0.26,1000,2022-08-23
+DataStax,SF Bay Area,Data,Series E,United States,15,null,190,2020-04-14
+Datera,SF Bay Area,Infrastructure,Series C,United States,null,0.1,63,2020-05-18
+Dazn,London,Consumer,Unknown,United Kingdom,50,0.02,null,2022-05-26
+DeHaat,Patna,Food,Series E,India,null,0.05,254,2023-01-15
+DealShare,Bengaluru,Retail,Series E,India,100,0.06,390,2023-01-27
+Deep Instinct,New York City,Security,Series D,United States,null,0.1,259,2022-06-06
+Definitive Healthcare,Boston,Healthcare,Post-IPO,United States,55,0.06,null,2023-01-12
+Degreed,SF Bay Area,Education,Series D,United States,null,0.15,411,2022-06-29
+Deliv,SF Bay Area,Retail,Series C,United States,669,1,80,2020-05-13
+Deliveroo,London,Food,Post-IPO,United Kingdom,350,0.09,1700,2023-02-09
+Deliveroo,London,Food,Series G,United Kingdom,367,0.15,1500,2020-04-28
+Deliveroo Australia,Melbourne,Food,Post-IPO,Australia,120,1,1700,2022-11-15
+Delivery Hero,Berlin,Food,Post-IPO,Germany,100,null,8300,2022-11-03
+Delivery Hero,Berlin,Food,Post-IPO,Germany,300,null,8300,2021-12-22
+Delivery Hero,Berlin,Food,Post-IPO,Germany,156,0.04,9900,2023-01-30
+Dell,Austin,Hardware,Post-IPO,United States,6650,0.05,null,2023-02-06
+Demandbase,SF Bay Area,Sales,Series H,United States,27,0.03,143,2022-09-07
+Deputy,Sydney,HR,Series B,Australia,60,0.3,106,2020-05-04
+Descartes Labs,Santa Fe,Data,Series B,United States,12,0.16,58,2020-06-02
+Desktop Metal,Boston,Other,Post-IPO,United States,null,0.12,811,2022-06-13
+Devo,Boston,Security,Series F,United States,null,0.15,481,2022-11-21
+DialSource,Sacramento,Marketing,Series B,United States,5,0.14,26,2020-03-31
+Digital Currency Gruop,Stamford,Crypto,Unknown,United States,10,0.13,null,2022-11-02
+Digital Surge,Brisbane,Crypto,Unknown,Australia,null,1,null,2022-12-09
+DigitalOcean,New York City,Infrastructure,Post-IPO,United States,200,0.11,491,2023-02-15
+Dispatch,Boston,Other,Series A,United States,null,0.38,18,2020-04-17
+Divergent 3D,Los Angeles,Transportation,Series B,United States,57,0.36,88,2020-04-24
+Divvy Homes,SF Bay Area,Real Estate,Series B,United States,40,0.12,180,2022-09-27
+Divvy Homes,SF Bay Area,Real Estate,Series B,United States,null,0.08,180,2020-03-25
+Dock,Sao Paulo,Finance,Private Equity,Brazil,190,0.12,280,2022-11-07
+Docly,London,Healthcare,Seed,United Kingdom,8,0.8,15.5,2020-08-19
+DocuSign,SF Bay Area,Sales,Post-IPO,United States,680,0.1,536,2023-02-16
+DocuSign,SF Bay Area,Sales,Post-IPO,United States,671,0.09,536,2022-09-28
+Doma,SF Bay Area,Finance,Post-IPO,United States,250,0.13,679,2022-08-04
+Doma,SF Bay Area,Finance,Post-IPO,United States,310,0.15,679,2022-05-10
+Doma,SF Bay Area,Finance,Post-IPO,United States,515,0.4,679,2022-12-06
+Domestika,SF Bay Area,Education,Series D,United States,150,0.19,130,2022-04-28
+Domino Data Lab,SF Bay Area,Data,Series F,United States,null,0.25,223,2022-11-07
+Domio,New York City,Real Estate,Series B,United States,null,0.5,116,2020-11-18
+Domio,New York City,Travel,Series B,United States,null,0.3,116,2020-03-31
+Domo,Salt Lake City,Data,Post-IPO,United States,90,0.1,689,2020-04-09
+Dooly,Vancouver,Sales,Series B,Canada,12,null,102,2022-08-09
+DoorDash,SF Bay Area,Food,Post-IPO,United States,1250,0.06,2500,2022-11-30
+Dotscience,London,Product,Unknown,United Kingdom,10,1,null,2020-05-19
+Dover,SF Bay Area,Recruiting,Series A,United States,23,0.3,22,2022-07-26
+DraftKings,Boston,Consumer,Post-IPO,United States,140,0.04,719,2023-02-01
+Drift,Boston,Marketing,Acquired,United States,59,null,107,2023-02-06
+Drip,Salt Lake City,Marketing,Acquired,United States,20,null,0,2020-03-23
+DriveWealth,Jersey City,Finance,Series D,United States,null,0.2,550,2023-01-26
+Drop,Toronto,Marketing,Series B,Canada,24,null,56,2022-11-01
+Dropbox,SF Bay Area,Other,Post-IPO,United States,315,0.15,1700,2021-01-13
+Dude Solutions,Raleigh,Other,Acquired,United States,null,0.2,100,2020-04-15
+Dukaan,Bengaluru,Retail,Series A,India,23,null,17,2022-10-31
+Dunzo,Bengaluru,Food,Unknown,India,null,0.03,382,2023-01-16
+Dutchie,Bend,Other,Series D,United States,50,0.07,603,2022-06-06
+Dynamic Signal,SF Bay Area,HR,Series E,United States,35,0.19,114,2020-04-02
+EMX Digital,New York City,Marketing,Unknown,United States,100,1,null,2023-02-13
+EVgo,Los Angeles,Transportation,Post-IPO,United States,40,null,400,2023-02-23
+Earnin,SF Bay Area,Finance,Series C,United States,50,0.2,190,2020-04-01
+Earth Rides,Nashville,Transportation,Unknown,United States,null,1,2,2023-01-19
+EasyPost,Salt Lake City,Logistics,Series A,United States,75,null,12,2020-03-11
+EasyPost,SF Bay Area,Logistics,Series A,United States,50,0.25,12,2020-04-13
+Eat Just,SF Bay Area,Food,Unknown,United States,40,null,465,2023-02-24
+Eatsy,Singapore,Food,Seed,Singapore,20,1,0.9755,2020-08-08
+Eaze,SF Bay Area,Consumer,Series D,United States,25,null,202,2022-06-01
+Ebanx,Curitiba,Finance,Unknown,Brazil,62,0.08,30,2020-05-27
+Ebanx,Curitiba,Finance,Series B,Brazil,340,0.2,460,2022-06-21
+Ecobee,Toronto,Energy,Series C,Canada,47,0.1,149,2020-03-26
+Eden / Managed By Q,New York City,Real Estate,Series B,United States,40,0.4,40,2020-04-08
+Edgio,Phoenix,Infrastructure,Post-IPO,United States,95,0.1,462,2022-12-13
+Edifecs,Seattle,Healthcare,Unknown,United States,30,null,1,2023-01-20
+Editas Medicine,Boston,Healthcare,Post-IPO,United States,null,0.2,656,2023-01-09
+Edmodo,SF Bay Area,Education,Acquired,United States,null,1,77,2022-08-16
+Eight Sleep,New York City,Retail,Series C,United States,null,0.2,70,2020-03-23
+Ejento,SF Bay Area,Recruiting,Unknown,United States,84,1,null,2020-03-19
+Elastic,SF Bay Area,Data,Post-IPO,United States,null,0.13,162,2022-11-30
+Electric,New York City,Other,Series D,United States,81,null,212,2022-08-30
+Electric,New York City,Other,Series D,United States,141,0.25,212,2023-02-13
+Electronic Arts,Baton Rouge,Consumer,Post-IPO,United States,200,null,2,2023-02-28
+Element,London,Other,Series B,United Kingdom,null,0.15,96,2022-12-25
+Element AI,Montreal,Other,Series B,Canada,62,0.15,257,2020-05-04
+Element Analytics,SF Bay Area,Data,Series A,United States,10,null,22,2020-03-25
+Elementor,Tel Aviv,Media,Unknown,Israel,60,0.15,65,2022-06-15
+Elinvar,Berlin,Finance,Unknown,Germany,43,0.33,30,2022-10-21
+Elliptic,London,Crypto,Series B,United Kingdom,null,0.3,40,2020-04-09
+Embark,Boston,Healthcare,Series B,United States,41,null,94,2023-01-11
+Embark Trucks,SF Bay Area,Transportation,Post-IPO,United States,230,0.7,317,2023-03-03
+Embroker,SF Bay Area,Finance,Series C,United States,30,0.12,142,2022-10-25
+Emotive,Los Angeles,Marketing,Series B,United States,30,0.18,78,2022-07-07
+Engine eCommerce,Fayetteville,Retail,Unknown,United States,null,1,4,2020-06-28
+Enjoei,Sao Paulo,Retail,Unknown,Brazil,31,0.1,14,2023-01-20
+Enjoy,SF Bay Area,Retail,Post-IPO,United States,400,0.18,310,2022-06-30
+Envato,Melbourne,Marketing,Unknown,Australia,100,null,null,2022-06-02
+Envoy,SF Bay Area,HR,Series B,United States,58,0.3,59,2020-04-14
+EquityZen,New York City,Finance,Series B,United States,30,0.27,11,2022-10-31
+Equitybee,SF Bay Area,Finance,Series B,United States,24,0.25,85,2023-02-08
+Equitybee,SF Bay Area,Finance,Series B,United States,25,0.2,85,2022-10-31
+Ericsson,Stockholm,Other,Post-IPO,Sweden,8500,0.08,663,2023-02-24
+Ermetic,SF Bay Area,Security,Series B,United States,30,0.17,97,2023-01-23
+Eruditus,Mumbai,Education,Series E,India,40,null,1200,2022-06-04
+Esper,Seattle,Other,Series A,United States,null,0.21,10,2023-01-10
+Esper,Seattle,Other,Series A,United States,null,0.12,10,2022-06-23
+Etermax,Buenos Aires,Other,Unknown,Argentina,40,null,null,2022-11-30
+Ethos Life,SF Bay Area,Finance,Series D,United States,50,null,406,2023-02-21
+Ethos Life,SF Bay Area,Finance,Series C,United States,18,0.14,106,2020-06-05
+Ethos Life,SF Bay Area,Finance,Series D,United States,40,0.12,406,2022-06-24
+Eucalyptus,Sydney,Healthcare,Series C,United States,50,0.2,69,2022-07-22
+Eventbrite,SF Bay Area,Consumer,Post-IPO,United States,80,0.08,557,2023-02-28
+Eventbrite,SF Bay Area,Consumer,Post-IPO,United States,500,0.45,332,2020-04-08
+EverBridge,Boston,Other,Post-IPO,United States,200,null,476,2022-11-08
+Everlane,SF Bay Area,Retail,Unknown,United States,30,0.17,176,2023-01-05
+Everlane,SF Bay Area,Retail,Unknown,United States,227,null,18,2020-03-27
+Evernote,SF Bay Area,Consumer,Acquired,United States,129,null,290,2023-02-17
+Exodus,Nebraska City,Crypto,Unknown,United States,59,0.22,60,2022-11-04
+Exotel,Bengaluru,Support,Series D,India,142,0.15,87,2023-01-17
+Expert360,Sydney,Recruiting,Series C,Australia,7,null,26,2022-08-11
+Exterro,Portland,Legal,Private Equity,United States,24,0.03,100,2023-02-01
+F5,Seattle,Security,Post-IPO,United States,100,0.01,null,2022-10-21
+FabHotels,New Delhi,Travel,Series B,India,80,0.2,48,2020-03-30
+Fabric,New York City,Logistics,Series C,United States,120,0.4,336,2022-07-13
+Facily,Sao Paulo,Retail,Series D,Brazil,260,0.3,502,2022-04-20
+Faire,SF Bay Area,Retail,Series G,United States,84,0.07,1700,2022-10-18
+Fandom,SF Bay Area,Media,Series E,United States,null,0.14,145,2020-04-30
+FarEye,New Delhi,Logistics,Series E,India,90,null,150,2023-02-03
+FarEye,New Delhi,Logistics,Series E,India,250,0.3,150,2022-06-10
+Fareportal,Gurugram,Travel,Unknown,India,200,null,null,2020-03-26
+Fast,SF Bay Area,Finance,Series B,United States,null,1,124,2022-04-05
+Fate Therapeutics,San Diego,Healthcare,Post-IPO,United States,315,0.57,1200,2023-01-09
+Favo,Sao Paulo,Food,Series A,Brazil,170,null,31,2022-06-02
+Faze Medicines,Boston,Healthcare,Series B,United States,null,1,81,2022-11-09
+Fifth Season,Pittsburgh,Food,Series B,United States,100,1,35,2022-10-28
+Finder,Sydney,Retail,Unknown,Australia,null,0.15,30,2023-02-03
+Finite State,Columbus,Security,Series B,United States,16,0.2,49,2022-06-17
+Finleap Connect,Hamburg,Finance,Series A,Germany,14,0.1,22,2022-06-30
+Fipola,Chennai,Food,Series A,United States,null,1,9,2023-02-20
+Fireblocks,New York City,Crypto,Series E,United States,30,0.05,1000,2023-02-20
+Firework,SF Bay Area,Retail,Series B,United States,null,0.1,269,2022-11-29
+FiscalNote,Washington D.C.,Media,Series D,United States,30,null,50,2020-04-02
+Fittr,Pune,Fitness,Series A,India,30,0.11,13,2023-03-02
+Fiverr,Tel Aviv,Other,Post-IPO,Israel,60,0.08,111,2022-07-26
+Fivetran,SF Bay Area,Data,Series D,United States,null,0.05,null,2022-10-04
+Flatiron School,New York City,Education,Acquired,United States,100,null,15,2020-05-06
+Flexport,SF Bay Area,Logistics,Series E,United States,640,0.2,2400,2023-01-11
+Flipboard,SF Bay Area,Media,Unknown,United States,24,0.21,235,2022-10-16
+Flockjay,SF Bay Area,Education,Series A,United States,37,0.5,14,2021-08-24
+Flowhub,Denver,Retail,Unknown,United States,null,0.15,45,2022-09-09
+Flowr,Toronto,Retail,Unknown,Canada,null,0.25,null,2020-03-24
+Fluke,Sao Paulo,Other,Seed,Brazil,83,0.82,null,2022-08-17
+Flux Systems,London,Finance,Unknown,United Kingdom,null,1,9,2022-10-14
+Flyhomes,Seattle,Real Estate,Series C,United States,200,0.2,310,2022-07-20
+Flyhomes,Seattle,Real Estate,Series C,United States,300,0.4,310,2022-11-09
+Flymya,Yangon,Travel,Unknown,Myanmar,200,0.33,null,2020-04-01
+Flytedesk,Boulder,Marketing,Seed,United States,4,0.2,4,2020-03-18
+Flywheel Sports,New York City,Fitness,Acquired,United States,784,0.98,120,2020-03-20
+Flywire,Boston,Finance,Series E,United States,60,0.12,263,2020-05-07
+Food52,New York City,Food,Acquired,United States,20,0.1,176,2022-04-08
+Food52,New York City,Food,Acquired,United States,21,0.15,176,2022-06-03
+Foodpanda,Singapore,Food,Acquired,Singapore,60,null,749,2022-09-07
+Foodpanda,Bucharest,Food,Acquired,Romania,80,null,749,2022-05-26
+Foodsby,Minneapolis,Food,Series B,United States,87,0.67,20,2020-03-24
+ForeScout,SF Bay Area,Security,Post-IPO,United States,100,0.1,125,2023-01-10
+Foresight Insurance,SF Bay Area,Finance,Series B,United States,null,0.4,58,2022-10-06
+Forma.ai,Toronto,Sales,Series B,Canada,15,0.09,58,2022-07-20
+Forto,Berlin,Logistics,Series D,United States,60,0.08,593,2022-11-11
+Forward,SF Bay Area,Healthcare,Series C,United States,10,0.03,100,2020-04-20
+Forward,SF Bay Area,Healthcare,Series D,United States,null,0.05,225,2022-07-11
+FourKites,Chicago,Logistics,Series D,United States,60,0.08,201,2022-08-11
+Foxtrot,Chicago,Food,Series C,United States,26,0.035,166,2022-09-23
+Fraazo,Mumbai,Food,Series B,India,150,null,63,2022-07-12
+Freetrade,London,Finance,Unknown,United Kingdom,45,0.15,133,2022-06-10
+Frequency Therapeutics,Boston,Healthcare,Post-IPO,United States,null,0.5,76,2023-02-01
+FreshDirect,Philadelphia,Food,Acquired,United States,40,null,280,2022-08-25
+Freshbooks,Toronto,Finance,Series B,Canada,38,0.09,75,2020-04-21
+Freshly,Phoenix,Food,Acquired,United States,329,null,107,2022-12-12
+Freshly,New York City,Food,Acquired,United States,null,0.25,107,2022-07-18
+Freshworks,SF Bay Area,Support,Post-IPO,United States,90,0.02,484,2022-12-15
+FrontRow,Bengaluru,Education,Series A,India,130,0.75,17,2022-10-12
+FrontRow,Bengaluru,Education,Series A,India,145,0.3,17,2022-05-27
+Frontdesk,Milwaukee,Travel,Unknown,United States,35,0.16,3,2020-04-10
+Frubana,Bogota,Food,Series C,Colombia,null,0.03,202,2022-06-21
+FullStory,Atlanta,Marketing,Unknown,United States,null,0.12,197,2022-09-13
+Fundbox,SF Bay Area,Finance,Series C,United States,14,0.15,453,2020-06-02
+Fundbox,SF Bay Area,Finance,Series D,United States,150,0.42,553,2022-10-25
+Funding Circle,SF Bay Area,Finance,Post-IPO,United States,85,null,746,2020-07-08
+Funding Societies,Singapore,Finance,Series B,Singapore,65,0.18,42,2020-04-16
+Furlenco,Bengaluru,Retail,Series D,India,180,null,228,2022-03-26
+G/O Media Group,New York City,Media,Unknown,United States,14,0.05,null,2020-04-03
+G2,Chicago,Marketing,Series C,United States,17,0.05,100.8,2020-06-30
+Gather,SF Bay Area,Consumer,Series B,United States,30,0.33,76,2022-06-02
+Gatherly,Atlanta,Marketing,NULL,United States,null,0.5,null,2022-07-31
+Gavelytics,Los Angeles,Legal,Seed,United States,null,1,5,2022-06-30
+Geekwire,Seattle,Media,Unknown,United States,5,0.31,null,2020-04-10
+Gem,SF Bay Area,Recruiting,Series C,United States,100,0.33,148,2022-11-01
+Gemini,New York City,Crypto,Unknown,United States,100,0.1,423,2022-06-02
+Gemini,New York City,Crypto,Unknown,United States,null,0.1,423,2023-01-23
+Gemini,New York City,Crypto,Unknown,United States,68,0.07,423,2022-07-18
+Genesis,New York City,Crypto,Series A,United States,52,0.2,null,2022-08-17
+Genesis,New York City,Crypto,Series A,United States,60,0.3,null,2023-01-05
+Genome Medical,SF Bay Area,Healthcare,Series C,United States,23,null,120,2022-09-08
+GetNinjas,Sao Paulo,Consumer,Series B,Brazil,11,0.1,16,2020-04-08
+GetYourGuide,Berlin,Travel,Series E,Germany,90,0.17,656,2020-10-14
+Getaround,SF Bay Area,Transportation,Series D,United States,100,0.25,403,2020-03-27
+Getaround,SF Bay Area,Transportation,Post-IPO,United States,null,0.1,948,2023-02-02
+Getir,Istanbul,Food,Series E,Turkey,null,0.14,1800,2022-05-25
+Getir,New York City,Food,Series E,United States,100,null,1800,2023-02-02
+Getta,Tel Aviv,Transportation,Series A,Israel,30,null,49,2022-05-31
+GitHub,SF Bay Area,Product,Acquired,United States,null,0.1,350,2023-02-09
+GitLab,SF Bay Area,Product,Post-IPO,United States,130,0.07,413,2023-02-09
+Gitpod,Kiel,Product,Series A,Germany,21,0.28,41,2023-01-24
+Glassdoor,SF Bay Area,Recruiting,Acquired,United States,300,0.3,204,2020-05-07
+Glints,Singapore,HR,Series D,Singapore,198,0.18,82,2022-12-08
+Glitch,New York City,Product,Series A,United States,18,0.36,30,2020-05-21
+GloriFi,Dallas,Finance,Unknown,United States,null,1,null,2022-11-21
+Glossier,New York City,Retail,Series E,United States,19,0.08,266,2022-08-02
+Glossier,New York City,Retail,Series D,United States,150,0.38,186.4,2020-08-07
+Glossier,New York City,Consumer,Series E,United States,80,0.33,266,2022-01-26
+Glovo,Barcelona,Food,Acquired,Spain,250,0.06,1200,2023-01-30
+GoBear,Singapore,Finance,Unknown,Singapore,22,0.11,97,2020-09-01
+GoBolt,Toronto,Logistics,Series C,Canada,55,0.05,178,2023-01-10
+GoDaddy,Phoenix,Marketing,Post-IPO,United States,530,0.08,800,2023-02-08
+GoDaddy,Austin,Marketing,Post-IPO,United States,451,0.06,null,2020-06-24
+GoFundMe,SF Bay Area,Finance,Series A,United States,94,0.12,null,2022-10-26
+GoHealth,Chicago,Healthcare,Post-IPO,United States,800,0.2,75,2022-08-09
+GoMechanic,Gurugram,Transportation,Series C,India,null,0.7,54,2023-01-17
+GoNuts,Mumbai,Media,Seed,India,null,1,null,2022-10-27
+GoPro,SF Bay Area,Consumer,Post-IPO,United States,200,0.2,288,2020-04-15
+GoSpotCheck,Denver,Retail,Series B,United States,23,0.2,47,2020-03-26
+GoStudent,Vienna,Education,Series D,Austria,100,null,686,2022-12-14
+GoStudent,Vienna,Education,Series D,Austria,200,null,686,2022-09-08
+GoTo Group,Jakarta,Transportation,Post-IPO,Indonesia,1300,0.12,1300,2022-11-10
+Gojek,Jakarta,Transportation,Series F,Indonesia,430,0.09,4800,2020-06-23
+Gokada,Lagos,Transportation,Unknown,Nigeria,54,null,12,2023-01-31
+Gokada,Lagos,Transportation,Unknown,Nigeria,20,null,12,2022-11-14
+Gong,SF Bay Area,Sales,Series E,United States,80,0.07,583,2023-02-08
+GoodGood,Toronto,Retail,Seed,Canada,null,1,6,2022-11-23
+GoodRx,Los Angeles,Healthcare,Post-IPO,United States,140,0.16,910,2022-08-31
+Goodfood,Calgary,Food,Post-IPO,Canada,70,null,16,2022-04-07
+Google,SF Bay Area,Consumer,Post-IPO,United States,12000,0.06,26,2023-01-20
+Gopuff,Philadelphia,Food,Series H,United States,1500,0.1,3400,2022-07-12
+Gopuff,Philadelphia,Food,Series H,United States,250,null,3400,2022-10-19
+Gopuff,Philadelphia,Food,Series H,United States,450,0.03,3400,2022-03-29
+Gopuff,Philadelphia,Food,Series H,United States,100,null,3400,2022-01-26
+Gorillas,Berlin,Food,Series C,Germany,300,0.5,1300,2022-05-24
+Gorillas,Berlin,Food,Series C,Germany,540,null,1300,2022-07-03
+Grab,Singapore,Transportation,Series I,Singapore,360,0.05,9900,2020-06-16
+Gramophone,Indore,Food,Series B,India,75,null,17,2023-01-16
+GrayMeta,Los Angeles,Data,Unknown,United States,20,0.4,7,2020-03-23
+Greenhouse Software,New York City,Recruiting,Series D,United States,120,0.28,110,2020-04-17
+Greenlight,Atlanta,Finance,Series D,United States,104,0.21,556,2023-01-12
+Grin,Sacramento,Marketing,Series B,United States,60,0.13,145,2022-11-30
+Group Nine Media,New York City,Media,Unknown,United States,50,0.07,190,2020-04-07
+Groupon,Chicago,Retail,Post-IPO,United States,2800,0.44,1400,2020-04-13
+Groupon,Chicago,Retail,Post-IPO,United States,500,0.15,1400,2022-08-08
+Groupon,Chicago,Retail,Post-IPO,United States,500,null,1400,2023-01-30
+Grove Collaborative,SF Bay Area,Retail,Series E,United States,null,0.17,474,2022-03-19
+Grover,Berlin,Retail,Unknown,United States,40,0.1,2300,2022-12-07
+Guardant Health,SF Bay Area,Healthcare,Post-IPO,United States,130,0.07,550,2023-01-25
+Guidewire,SF Bay Area,Finance,Post-IPO,United States,null,0.02,24,2022-08-11
+GumGum,Los Angeles,Marketing,Series D,United States,90,0.25,58,2020-04-20
+Gusto,SF Bay Area,HR,Series E,United States,126,0.05,746,2023-02-08
+Gympass,Sao Paulo,Fitness,Series D,Brazil,467,0.33,300,2020-04-03
+HOOQ,Singapore,Consumer,Unknown,Singapore,250,1,95,2020-03-27
+HP,Tel Aviv,Hardware,Post-IPO,Israel,100,null,4200,2023-02-19
+HackerEarth,SF Bay Area,HR,Series B,United States,null,0.08,11,2023-02-14
+Halcyon Health,New York City,Healthcare,Unknown,United States,null,1,2,2022-04-15
+Happy Money,Los Angeles,Finance,Series D,United States,158,0.34,191,2022-11-30
+Harappa,New Delhi,Education,Acquired,India,60,0.3,null,2023-01-03
+Hash,Sao Paulo,Finance,Series C,Brazil,58,0.5,58,2022-08-01
+HashiCorp,SF Bay Area,Security,Post-IPO,United States,69,null,349,2023-01-11
+Haus,SF Bay Area,Food,Seed,United States,null,1,7,2022-08-09
+Havenly,Denver,Consumer,Series C,United States,5,null,57.8,2020-07-01
+Headspace,Los Angeles,Healthcare,Unknown,United States,50,0.04,215,2022-12-14
+HealthMatch,Sydney,Healthcare,Series B,Australia,18,0.5,20,2022-06-28
+Healthcare.com,Miami,Healthcare,Series C,United States,149,null,244,2022-08-03
+HealthifyMe,Bengaluru,Fitness,Series C,India,150,null,100,2022-12-03
+Hedvig,Stockholm,Finance,Series B,Sweden,12,null,67,2022-09-01
+HelloFresh,SF Bay Area,Food,Post-IPO,United States,611,null,367,2022-10-10
+Help.com,Austin,Support,Seed,United States,16,1,6,2020-03-16
+Her Campus Media,Boston,Media,Unknown,United States,10,0.18,null,2020-06-10
+Heroes,London,Retail,Unknown,United States,24,0.2,265,2022-07-15
+Heycar,Berlin,Transportation,Unknown,Germany,73,null,null,2023-01-27
+Hibob,Tel Aviv,HR,Series A,Israel,70,0.3,45,2020-03-30
+HighRadius,Bengaluru,Finance,Series C,India,25,null,475,2022-11-09
+Highsnobiety,Berlin,Media,Series A,Germany,51,0.25,8.5,2020-04-01
+Highspot,Seattle,Sales,Series F,United States,100,0.1,644,2023-02-02
+Hipcamp,SF Bay Area,Travel,Series B,United States,null,0.6,40.5,2020-04-20
+Hippo Insurance,SF Bay Area,Finance,Post-IPO,United States,70,0.1,1300,2022-08-31
+Hirect,Bengaluru,Recruiting,Series A,India,200,0.4,null,2022-11-28
+Hireology,Chicago,Recruiting,Series D,United States,36,0.17,52,2020-05-12
+Hodlnaut,Singapore,Crypto,Unknown,Singapore,40,0.8,null,2022-08-19
+Hologram,Chicago,Infrastructure,Series B,United States,80,0.4,82,2022-06-09
+HomeLight,SF Bay Area,Real Estate,Series D,United States,null,0.19,743,2022-06-29
+Homebot,Denver,Real Estate,Acquired,United States,18,0.13,4,2022-12-19
+Homepoint,Phoenix,Real Estate,Post-IPO,United States,113,null,null,2022-11-17
+Homeward,Austin,Real Estate,Series B,United States,null,0.2,160,2022-08-10
+Homeward,Austin,Real Estate,Unknown,United States,null,0.25,501,2022-11-16
+Homie,Salt Lake City,Real Estate,Series B,United States,40,0.13,35,2022-10-04
+Homie,Salt Lake City,Real Estate,Series B,United States,119,0.29,35,2022-02-14
+Hootsuite,Vancouver,Marketing,Series C,Canada,70,0.07,300,2023-01-18
+Hootsuite,Vancouver,Marketing,Series C,Canada,400,0.3,300,2022-08-09
+Hootsuite,Vancouver,Marketing,Series C,Canada,50,0.05,300,2022-11-01
+HopSkipDrive,Los Angeles,Transportation,Unknown,United States,8,0.1,45,2020-03-13
+Hopin,London,Other,Series D,United Kingdom,242,0.29,1000,2022-07-11
+Hopin,London,Other,Series D,United Kingdom,null,0.17,1000,2022-11-16
+Hopin,London,Other,Series D,United States,138,0.12,1000,2022-02-10
+Horizn Studios,Berlin,Travel,Series B,Germany,15,0.25,30,2020-04-24
+Hotmart,Belo Horizonte,Marketing,Series C,Brazil,227,0.12,127,2022-10-20
+Houzz,SF Bay Area,Consumer,Series E,United States,95,0.08,613,2022-12-07
+Houzz,SF Bay Area,Consumer,Series E,United States,155,0.1,613,2020-04-21
+HubHaus,SF Bay Area,Real Estate,Series A,United States,null,1,13.4,2020-09-11
+HubSpot,Boston,Marketing,Post-IPO,United States,500,0.07,100,2023-01-31
+Hubba,Toronto,Retail,Series B,Canada,45,1,61,2021-02-01
+Hubilo,SF Bay Area,Marketing,Series B,United States,45,0.12,153,2022-07-12
+Hubilo,SF Bay Area,Other,Series B,United States,115,0.35,153,2023-01-19
+HuffPo,New York City,Media,Acquired,United States,47,null,37,2021-03-09
+Humble,SF Bay Area,Media,Acquired,United States,10,null,4,2022-04-15
+Humu,SF Bay Area,HR,Series B,United States,26,null,40,2020-04-02
+Hunty,Bogota,HR,Seed,Colombia,30,null,6,2022-06-14
+Huobi,Beijing,Crypto,Unknown,China,300,0.3,2,2022-06-28
+Huobi,Beijing,Crypto,Unknown,China,275,0.2,2,2023-01-06
+Hydrow,Boston,Fitness,Series D,United States,null,0.35,269,2022-07-18
+Hydrow,Boston,Fitness,Series D,United States,30,null,269,2023-01-19
+Hyperscience,New York City,Data,Series E,United States,100,0.25,289,2022-03-03
+IBM,New York City,Hardware,Post-IPO,United States,3900,0.02,null,2023-01-25
+ID.me,Washington D.C.,Security,Unknown,United States,130,null,275,2022-06-07
+IRL,SF Bay Area,Consumer,Series C,United States,25,0.25,197,2022-06-02
+Ibotta,Denver,Retail,Series D,United States,87,0.15,85,2020-04-07
+Ideoclick,Seattle,Retail,Series A,United States,40,null,7,2022-05-04
+Iflix,Kuala Lumpur,Consumer,Unknown,Malaysia,50,0.12,348,2020-04-04
+Ignite,SF Bay Area,Crypto,Series A,United States,null,0.5,9,2022-07-11
+Ignition,Sydney,Finance,Series C,Australia,null,0.1,74,2023-01-16
+Ike,SF Bay Area,Transportation,Series A,United States,10,0.14,52,2020-04-22
+Illumina,San Diego,Healthcare,Post-IPO,United States,500,0.05,28,2022-11-14
+Immersive Labs,Bristol,Security,Series C,United Kingdom,38,0.1,123,2022-08-30
+Immutable,Sydney,Crypto,Series C,Australia,null,0.11,279,2023-02-22
+Immutable,Sydney,Crypto,Series C,Australia,20,0.06,279,2022-07-26
+Impact.com,Los Angeles,Marketing,Private Equity,United States,null,0.1,361,2022-08-25
+Impala,London,Travel,Series B,United Kingdom,30,0.35,32,2022-06-01
+Imperfect Foods,SF Bay Area,Food,Series D,United States,50,null,229,2022-07-29
+Impossible Foods,SF Bay Area,Food,Series H,United States,50,0.06,1900,2022-10-06
+Impossible Foods copy,SF Bay Area,Food,Series H,United States,140,0.2,1900,2023-01-30
+Improbable,London,Other,Unknown,United Kingdom,null,0.1,704,2022-12-16
+InDebted,Sydney,Finance,Series B,Australia,40,0.17,41,2022-07-26
+InVision,New York City,Product,Series F,United States,null,0.5,356,2022-07-21
+InVision,New York City,Product,Unknown,United States,22,null,356,2021-10-05
+Included Health,SF Bay Area,Healthcare,Series E,United States,null,0.06,272,2022-07-25
+Incredible Health,SF Bay Area,Healthcare,Series A,United States,9,0.4,15,2020-04-01
+Indigo,Boston,Other,Series F,United States,80,null,1200,2021-02-09
+Industrious,New York City,Real Estate,Series D,United States,90,0.2,222,2020-04-02
+Infarm,Berlin,Other,Series D,Germany,50,0.05,604,2022-09-14
+Infarm,Berlin,Other,Series D,Germany,500,0.5,604,2022-11-28
+InfluxData,SF Bay Area,Data,Series D,United States,65,0.27,119,2022-11-10
+InfoSum,London,Security,Series B,United Kingdom,20,0.12,88,2022-10-19
+Informatica,SF Bay Area,Data,Post-IPO,United States,450,0.07,null,2023-01-10
+Inmobi,Bengaluru,Marketing,Unknown,India,50,null,320,2023-01-23
+Innovaccer,SF Bay Area,Healthcare,Series E,United States,90,0.08,379,2022-09-01
+Innovaccer,SF Bay Area,Healthcare,Series E,United States,245,0.15,379,2023-01-24
+Innovid,New York City,Marketing,Post-IPO,United States,40,0.1,295,2023-01-23
+Inscripta,Boulder,Healthcare,Series E,United States,43,null,459,2022-12-08
+Inspirato,Denver,Travel,Post-IPO,United States,109,0.12,179,2023-01-18
+Inspirato,Denver,Travel,Series C,United States,130,0.22,79,2020-03-16
+Instacart,SF Bay Area,Food,Unknown,United States,1877,null,2400,2021-01-21
+Instamojo,Bengaluru,Finance,Unknown,India,6,0.06,8,2020-04-02
+Instructure,Salt Lake City,Education,Acquired,United States,150,0.12,89,2020-05-27
+Intapp,SF Bay Area,Legal,Private Equity,United States,45,0.05,null,2020-05-18
+Integral Ad Science,New York City,Marketing,Acquired,United States,120,0.13,116,2022-12-07
+Integral Ad Science,New York City,Marketing,Acquired,United States,70,0.1,116,2020-05-14
+Integrate.ai,Toronto,Support,Unknown,Canada,26,null,39.6,2020-06-09
+Intel,SF Bay Area,Hardware,Post-IPO,United States,343,null,12,2023-01-30
+Intel,SF Bay Area,Hardware,Post-IPO,United States,201,null,12,2022-12-06
+Intercom,SF Bay Area,Support,Series D,United States,124,0.13,240,2022-11-14
+Intercom,SF Bay Area,Support,Series D,United States,39,0.06,240,2020-05-20
+Intercom,SF Bay Area,Support,Series D,United States,49,0.05,240,2022-09-07
+Intersect,Toronto,Product,Acquired,Canada,19,0.11,null,2020-05-13
+Intrinsic,SF Bay Area,Other,Acquired,United States,40,0.2,null,2023-01-11
+Introhive,Ferdericton,Sales,Series C,Canada,57,0.16,125,2022-07-20
+Intuit,SF Bay Area,Finance,Post-IPO,United States,715,0.07,18,2020-06-22
+Invitae,SF Bay Area,Healthcare,Post-IPO,United States,1000,null,2000,2022-07-19
+Involves,Florianópolis,Retail,Unknown,Brazil,70,0.18,23,2022-07-13
+Iris Nova,New York City,Food,Seed,United States,9,0.5,15,2020-03-30
+Iron Ox,SF Bay Area,Food,Series C,United States,50,0.5,103,2022-11-02
+IronNet,Washington D.C.,Security,Post-IPO,United States,90,0.35,410,2022-06-22
+IronNet,Washington D.C.,Security,Post-IPO,United States,55,0.17,410,2022-06-22
+JD.ID,Jakarta,Retail,Post-IPO,Indonesia,200,0.3,5100,2022-12-14
+JOKR,New York City,Food,Series B,United States,50,0.05,430,2022-06-16
+Jam City,Los Angeles,Consumer,Unknown,United States,200,0.17,652,2022-08-04
+Jama,Portland,Product,Unknown,United States,12,0.05,233,2020-03-25
+Jellyfish,Boston,Product,Series C,United States,null,0.09,114,2023-01-13
+Jellysmack,New York City,Media,Series C,United States,null,0.08,22,2022-06-09
+Jellysmack,Paris,Media,Series C,France,208,null,22,2023-02-15
+JetClosing,Seattle,Real Estate,Series B,United States,null,1,44,2022-06-15
+JetClosing,Seattle,Real Estate,Series A,United States,20,0.2,24,2020-04-27
+Jetty,New York City,Finance,Series B,United States,35,0.4,40,2020-04-03
+Jimdo,Hamburg,Other,Unknown,Germany,50,0.16,28,2022-11-15
+Jiobit,Chicago,Consumer,Unknown,United States,6,0.21,12,2020-04-24
+Jobcase,Boston,Recruiting,Private Equity,United States,39,0.2,118,2020-04-02
+Jounce Therapeutics,Boston,Healthcare,Acquired,United States,null,0.57,194,2023-02-22
+Jumia,Lagos,Retail,Post-IPO,Nigeria,900,0.2,1200,2022-11-21
+Jumio,SF Bay Area,Security,Private Equity,United States,100,0.06,205,2023-01-11
+Jump,New York City,Transportation,Acquired,United States,500,1,11,2020-05-07
+Jumpcloud,Boulder,Security,Series F,United States,100,0.12,416,2023-01-18
+Juni,Gothenburg,Finance,Unknown,Sweden,72,0.33,281,2022-11-17
+Juniper Square,SF Bay Area,Real Estate,Series C,United States,null,0.14,108,2022-09-06
+Just Eat Takeaway,Amsterdam,Food,Post-IPO,Netherlands,390,null,2800,2022-07-20
+Juul,SF Bay Area,Consumer,Unknown,United States,400,0.3,1500,2022-11-10
+Juul,SF Bay Area,Consumer,Unknown,United States,900,0.3,1500,2020-05-05
+Kabam,SF Bay Area,Consumer,Acquired,United States,35,0.07,244,2022-11-09
+Kaltura,New York City,Media,Post-IPO,United States,75,0.11,166,2023-01-04
+Kaltura,New York City,Media,Post-IPO,United States,null,0.1,166,2022-08-09
+Kandela,Los Angeles,Consumer,Acquired,United States,null,1,null,2023-03-02
+Kandji,San Diego,Other,Series C,United States,null,0.17,188,2022-11-17
+Kaodim,Selangor,Consumer,Series B,United States,null,1,17,2022-06-02
+Karat,Seattle,HR,Unknown,United States,47,null,169,2023-01-20
+Karbon,SF Bay Area,Other,Series B,United States,null,0.23,91,2022-09-12
+Katerra,SF Bay Area,Construction,Unknown,United States,2434,1,1600,2021-06-01
+Katerra,SF Bay Area,Construction,Series D,United States,240,0.03,1200,2020-04-02
+Katerra,SF Bay Area,Construction,Series E,United States,400,0.07,1300,2020-06-29
+Kavak,Sao Paulo,Transportation,Series E,Brazil,150,null,1600,2022-06-08
+Kayak / OpenTable,Stamford,Travel,Acquired,United States,160,0.08,229,2020-04-29
+Kazoo,Austin,HR,Series A,United States,null,0.35,8,2020-03-31
+KeepTruckin,SF Bay Area,Logistics,Series D,United States,349,0.18,227,2020-03-31
+Kenoby,Sao Paulo,Recruiting,Unknown,Brazil,18,0.16,23,2020-04-08
+Khoros,Austin,Sales,Private Equity,United States,120,0.1,138,2022-10-21
+Kiavi,SF Bay Area,Real Estate,Series E,United States,39,0.07,240,2022-07-14
+Kickstarter,New York City,Finance,Unknown,United States,25,0.18,10,2020-05-13
+Kinde,Sydney,Other,Seed,Australia,8,0.28,10,2023-02-20
+Kite,SF Bay Area,Product,Series A,United States,null,1,21,2022-11-16
+Kitopi,New York City,Food,Series B,United States,124,null,89,2020-04-29
+Kitopi,Dubai,Food,Series C,United States,93,0.1,804,2022-11-21
+Kitty Hawk,SF Bay Area,Aerospace,Unknown,United States,100,1,1,2022-09-21
+Kitty Hawk,SF Bay Area,Aerospace,Unknown,United States,70,null,1,2020-06-03
+KiwiCo,SF Bay Area,Retail,Unknown,United States,40,null,11,2022-06-07
+Klarna,Stockholm,Finance,Unknown,Sweden,700,0.1,3700,2022-05-23
+Klarna,Stockholm,Finance,Unknown,Sweden,100,null,3700,2022-09-22
+Klook,Hong Kong,Travel,Series D,Hong Kong,300,0.15,521,2020-04-20
+Knock,New York City,Real Estate,Unknown,United States,115,0.46,654,2022-03-15
+Knotel,New York City,Real Estate,Series C,United States,127,0.3,560,2020-03-27
+Knotel,New York City,Real Estate,Series C,United States,20,0.08,560,2020-10-29
+Kodiak Robotics,SF Bay Area,Transportation,Series A,United States,15,0.2,40,2020-04-15
+Koho,Toronto,Finance,Series D,Canada,15,0.04,278,2022-11-17
+Koho,Toronto,Finance,Series D,Canada,null,0.14,278,2023-02-08
+KoinWorks,Jakarta,Finance,Unknown,Indonesia,70,0.08,180,2022-11-04
+Koinly,London,Crypto,Unknown,United Kingdom,16,0.14,null,2022-12-06
+Komodo Health,SF Bay Area,Healthcare,Series C,United States,23,0.09,50,2020-04-20
+Komodo Health,SF Bay Area,Healthcare,Series E,United States,78,0.09,514,2022-12-13
+Konfio,Mexico City,Finance,Series E,United States,180,null,706,2022-09-23
+Kongregate,SF Bay Area,Media,Series C,United States,12,null,19,2020-07-01
+Kontist,Berlin,Finance,Series B,Germany,50,0.25,53,2022-05-25
+Koo,Bengaluru,Consumer,Series B,India,40,null,44,2022-08-31
+Kraken,SF Bay Area,Crypto,Unknown,United States,1100,0.3,134,2022-11-30
+Kry,Stockholm,Healthcare,Series D,Sweden,300,0.1,568,2022-10-31
+Kry,Stockholm,Healthcare,Series D,Sweden,100,0.1,568,2022-05-17
+Kuda,Lagos,Finance,Series B,Nigeria,23,0.05,91,2022-09-02
+Kueski,Guadalajara,Finance,Series B,Mexico,90,0.3,38,2020-04-20
+Kune,Nairobi,Food,Seed,Kenya,null,1,1,2022-06-23
+Kyruus,Boston,Healthcare,Unknown,United States,70,null,183,2023-02-05
+LEAD,Mumbai,Education,Series E,India,80,0.04,166,2022-08-04
+LEAD,Mumbai,Education,Series E,India,60,null,190,2023-01-10
+Labelbox,SF Bay Area,Data,Series D,United States,36,null,188,2022-08-08
+Labster,Copenhagen,Education,Series B,Denmark,40,null,34,2020-04-17
+Lacework,SF Bay Area,Security,Series D,United States,300,0.2,1900,2022-05-25
+Ladder Life,SF Bay Area,Finance,Series C,United States,13,0.25,94,2020-03-23
+Lam Research,SF Bay Area,Hardware,Post-IPO,United States,1300,0.07,null,2023-01-25
+Lambda School,SF Bay Area,Education,Series B,United States,19,null,48,2020-04-21
+Lambda School,SF Bay Area,Education,Series C,United States,65,null,122,2021-04-29
+Landing,Birmingham,Real Estate,Series C,United States,110,null,347,2022-10-06
+Lantern,Grand Rapids,Retail,Seed,United States,null,1,40,2023-01-06
+Lastline,SF Bay Area,Security,Series C,United States,50,0.4,52,2020-06-04
+Latch,New York City,Security,Series B,United States,60,null,152,2020-04-02
+Latch,New York City,Security,Post-IPO,United States,115,0.37,342,2022-08-02
+Latch,New York City,Security,Post-IPO,United States,130,0.28,342,2022-05-20
+Latch,New York City,Security,Post-IPO,United States,30,0.06,342,2022-05-10
+Lattice,SF Bay Area,HR,Series C,United States,16,0.1,49,2020-05-15
+Lattice,SF Bay Area,HR,Series F,United States,13,null,328,2022-10-27
+Lattice,SF Bay Area,HR,Series F,United States,null,0.15,328,2023-01-12
+Lawgeex,Tel Aviv,Legal,Series C,Israel,30,0.33,41,2022-09-06
+Laybuy,Auckland,Finance,Post-IPO,New Zealand,45,null,130,2022-07-28
+Le Tote,SF Bay Area,Retail,Series C,United States,null,0.5,62,2020-04-01
+LeafLink,New York City,Other,Series C,United States,80,0.31,379,2022-12-15
+Leafly,Seattle,Retail,Acquired,United States,91,0.5,2,2020-03-23
+Leafly,Seattle,Retail,Post-IPO,United States,56,0.21,71,2022-10-18
+LearnUpon,Dublin,Education,Private Equity,Ireland,27,0.09,56,2023-02-07
+Legible,Vancouver,Media,Post-IPO,Canada,23,0.38,3,2022-04-04
+Lemon,Buenos Aires,Crypto,Series A,Argentina,100,0.38,17,2022-11-24
+Lemonade,New York City,Finance,Post-IPO,United States,52,null,481,2022-04-20
+Lendi,Sydney,Real Estate,Unknown,Australia,100,null,59,2023-03-03
+Lending Club,SF Bay Area,Finance,Post-IPO,United States,460,0.3,392,2020-04-21
+Lending Club,SF Bay Area,Finance,Post-IPO,United States,225,0.14,392,2023-01-12
+LendingTree,Charlotte,Finance,Post-IPO,United States,200,null,null,2022-11-03
+Lendingkart,Ahmedabad,Finance,Unknown,India,500,0.5,200,2020-05-15
+Lendis,Berlin,Other,Series A,Germany,18,0.15,90,2022-07-04
+Lendis,Berlin,Other,Series A,Germany,null,0.5,90,2022-12-21
+Lev,New York City,Real Estate,Series B,United States,30,0.3,114,2022-12-07
+Lever,SF Bay Area,Recruiting,Series C,United States,86,0.4,72,2020-04-08
+Lido,Mumbai,Education,Series A,India,150,null,24,2022-02-21
+Lido Learning,Mumbai,Education,Series C,India,null,1,20,2022-09-09
+Life360,SF Bay Area,Consumer,Post-IPO,United States,null,0.14,158,2023-01-12
+Liftoff,SF Bay Area,Marketing,Acquired,United States,130,0.15,6,2022-11-09
+Lighter Capital,Seattle,Finance,Series B,United States,18,0.22,15,2020-04-24
+Lighter Capital,Seattle,Finance,Series B,United States,22,0.49,15,2020-07-20
+Lighthouse Labs,Toronto,Education,Unknown,Canada,14,0.07,null,2020-04-09
+Lightico,Tel Aviv,Finance,Series B,Israel,20,0.25,42,2023-02-05
+Lightico,Tel Aviv,Finance,Series B,Israel,20,null,42,2022-03-31
+Lightricks,Jerusalem,Consumer,Series D,Israel,80,0.12,335,2022-07-04
+Lightspeed Commerce,Montreal,Retail,Post-IPO,Canada,300,0.1,1200,2023-01-17
+Lime,SF Bay Area,Transportation,Series D,United States,80,0.13,765,2020-04-29
+Limeade,Seattle,HR,Series C,United States,null,0.15,33,2023-01-11
+Limelight,New York City,Recruiting,Unknown,United States,13,1,null,2021-02-04
+LinkedIn,SF Bay Area,Recruiting,Acquired,United States,960,0.06,154,2020-07-21
+Linkfire,Copenhagen,Marketing,Seed,Denmark,35,0.35,2,2022-10-11
+Linktree,Melbourne,Consumer,Unknown,Australia,50,0.17,165,2022-08-09
+Lithic,New York City,Finance,Series C,United States,27,0.18,115,2022-12-07
+Liv Up,Sao Paulo,Food,Series D,Brazil,100,0.15,118,2022-02-16
+LivePerson,New York City,Support,Post-IPO,United States,193,0.11,42,2022-09-15
+LivePerson,New York City,Support,Post-IPO,United States,30,null,42,2020-11-01
+LiveRamp,SF Bay Area,Marketing,Post-IPO,United States,null,0.1,16,2022-11-03
+LiveTiles,New York City,Other,Post-IPO,United States,50,null,46,2020-05-03
+LiveVox,SF Bay Area,Support,Post-IPO,United States,null,0.16,12,2023-01-17
+Livspace,Bengaluru,Retail,Series D,India,450,0.15,157,2020-05-19
+Locomation,Pittsburgh,Transportation,Seed,United States,null,1,57,2023-02-22
+Loft,Sao Paulo,Real Estate,Series C,Brazil,47,0.1,263,2020-04-17
+Loft,Sao Paulo,Real Estate,Unknown,Brazil,340,0.15,788,2023-03-03
+Loft,Sao Paulo,Real Estate,Unknown,Brazil,384,0.12,788,2022-07-05
+Loft,Sao Paulo,Real Estate,Unknown,Brazil,312,0.12,788,2022-12-07
+Loft,Sao Paulo,Real Estate,Series C,Brazil,47,null,263,2020-03-27
+Loft,Sao Paulo,Real Estate,Unknown,Brazil,159,null,788,2022-04-19
+Loftium,Seattle,Real Estate,Series A,United States,32,0.6,17,2020-05-29
+Loftsmart,New York City,Real Estate,Series A,United States,25,0.75,18,2020-03-30
+Loggi,Sao Paulo,Logistics,Series F,Brazil,500,0.15,507,2022-08-08
+Loggi,Sao Paulo,Logistics,Series F,Brazil,300,0.07,507,2023-02-06
+Loja Integrada,Sao Paulo,Retail,Acquired,Brazil,25,0.1,null,2022-08-25
+Lokalise,Dover,Other,Series B,United States,76,0.23,56,2022-11-16
+Lola,Boston,Travel,Series C,United States,34,null,81,2020-03-19
+Loom,SF Bay Area,Product,Series C,United States,23,0.11,203,2022-10-20
+Loom,SF Bay Area,Product,Series C,United States,34,0.14,203,2022-06-01
+Loop,Washington D.C.,Finance,Series A,United States,15,0.2,24,2022-08-24
+LoopMe,London,Marketing,Unknown,United Kingdom,8,0.04,32,2020-04-09
+Loopio,Toronto,Sales,Series A,Canada,11,0.08,11,2020-05-04
+Lora DiCarlo,Bend,Consumer,Unknown,United States,null,1,9,2022-12-02
+Lucid Diagnostics,New York City,Healthcare,Post-IPO,United States,null,0.2,null,2023-01-18
+Lucira Health,SF Bay Area,Healthcare,Post-IPO,United States,26,null,132,2023-02-24
+Lumina Networks,SF Bay Area,Infrastructure,Series A,United States,null,1,10,2020-08-18
+Lummo,Jakarta,Marketing,Series C,Indonesia,150,null,149,2022-06-07
+Lunchbox,New York City,Food,Series B,United States,60,0.33,72,2022-07-21
